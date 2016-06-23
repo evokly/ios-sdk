@@ -1,0 +1,9 @@
+framework module Evokly {
+    umbrella header "Evokly.h"
+    export *
+    module * { export * }
+}
+
+module Evokly.Swift {
+    header "Evokly-Swift.h"
+}
