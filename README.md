@@ -22,7 +22,11 @@
 
 ###CocoaPods
 
-`pod 'Evokly'`
+```
+use_frameworks!
+pod 'Evokly'
+
+```
 
 
 ##Using Evokly
