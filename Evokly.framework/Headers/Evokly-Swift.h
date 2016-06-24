@@ -113,7 +113,7 @@ SWIFT_CLASS("_TtC6Evokly6Evokly")
 
 /// If you want to support Advertising Identifier, you should get if iOS and pass to this function. This will require you to set a proper policy, when distributing the app.
 ///
-/// \param idfa A identifier that defines an app install.
+/// \param idfa An identifier that defines an app install.
 + (void)setIFDA:(NSString * _Nonnull)idfa;
 
 /// Register and start evokly. Call this in AppDelegate didFinishLaunching. This method reponds to only a first call.
@@ -143,6 +143,10 @@ SWIFT_CLASS("_TtC6Evokly6Evokly")
 ///
 /// \returns  A boolean deciding whether it was a Evokly notification. If false, you should handle the notification.
 + (BOOL)handleNotification:(UILocalNotification * _Nonnull)notification;
+
+/// Get Evokly version in semantic versioning format. Format: MAJOR.MINOR.PATCH
+///
+/// \returns  A String version identifier (eg. 1.0.0).
 + (NSString * _Nonnull)getVersion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -161,6 +165,10 @@ SWIFT_CLASS("_TtC6Evokly6Evokly")
 
 
 @interface UIColor (SWIFT_EXTENSION(Evokly))
+@end
+
+
+@interface UIImage (SWIFT_EXTENSION(Evokly))
 @end
 
 

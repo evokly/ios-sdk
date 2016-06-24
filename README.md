@@ -22,12 +22,17 @@
 
 ###CocoaPods
 
-```
+```ruby
 use_frameworks!
 pod 'Evokly'
 
 ```
-
+###Carthage
+```ruby
+github "evokly/ios-sdk"
+// and then
+carthage checkout
+```
 
 ##Using Evokly
 
