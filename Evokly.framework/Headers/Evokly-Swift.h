@@ -123,6 +123,11 @@ SWIFT_CLASS("_TtC6Evokly6Evokly")
 /// \param publicApiKey Your API key obtainted on Evokly website.
 + (void)registerWithSubdomain:(NSString * _Nonnull)subdomain publicApiKey:(NSString * _Nonnull)publicApiKey;
 
+/// Force update config from server.
+///
+/// \param completion A completion block.
++ (void)updateConfig:(void (^ _Nonnull)(BOOL))completion;
+
 /// Presents a debug ViewController. Including: triggers, actions and beacons information.
 ///
 /// \param parent A parent controller from whom the debug should be presented.
