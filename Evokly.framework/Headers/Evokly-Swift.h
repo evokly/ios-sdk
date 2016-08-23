@@ -92,6 +92,7 @@ typedef int swift_int4  __attribute__((__ext_vector_type__(4)));
 # endif
 #endif
 #if defined(__has_feature) && __has_feature(modules)
+@import CoreLocation;
 @import ObjectiveC;
 @import Foundation;
 @import UIKit;
@@ -99,6 +100,10 @@ typedef int swift_int4  __attribute__((__ext_vector_type__(4)));
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
 #pragma clang diagnostic ignored "-Wduplicate-method-arg"
+
+@interface CLBeacon (SWIFT_EXTENSION(Evokly))
+@end
+
 @class UIViewController;
 @class NSURL;
 @class UILocalNotification;
@@ -122,6 +127,11 @@ SWIFT_CLASS("_TtC6Evokly6Evokly")
 ///
 /// \param publicApiKey Your API key obtainted on Evokly website.
 + (void)registerWithSubdomain:(NSString * _Nonnull)subdomain publicApiKey:(NSString * _Nonnull)publicApiKey;
+
+/// Force update config from server.
+///
+/// \param completion A completion block.
++ (void)updateConfig:(void (^ _Nonnull)(BOOL))completion;
 
 /// Presents a debug ViewController. Including: triggers, actions and beacons information.
 ///
