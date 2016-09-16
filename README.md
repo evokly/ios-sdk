@@ -37,7 +37,6 @@ carthage checkout
 ##Using Evokly
 
 ### Register
-
 Get your Public API Key from https://evok.ly and pass it along with subdomain to register funcion.
 In `application(application:didFinishLaunchingWithOptions launchOptions:)`:
 
@@ -46,7 +45,6 @@ Evokly.register(subdomain: "mySweetDomain", publicApiKey: "Long api key")
 ```
 
 ### Handle URL
-
 before iOS 9:
 
 ```swift
@@ -68,7 +66,6 @@ func application(app: UIApplication, openURL url: NSURL, options: [String : AnyO
 ```
 
 ### Handle notifications
-
 Right click your `Info.plist` and Open as Source Code. Paste the following code before the last`</dict>`.
 
 ```xml
@@ -92,6 +89,14 @@ func application(application: UIApplication, didReceiveLocalNotification notific
 }
 ```
 
+###Analytics
+By default Evokly use `UIDevice.currentDevice().identifierForVendor` to track users. If you want to use Advertising Identifier, you can pass it to Evokly before registering.
+
+```swift
+Evokly.setAdvertisingIdentifier(someAdvertisingIdentifier)
+```
+
+
 ###Debuging
 There is a debug screen to help you see what's going on in Evokly. Present it with parent view controller.
 
@@ -102,7 +107,6 @@ func someButtonAction() {
 ```
 
 ###Location 
-
 Right click your `Info.plist` and Open as Source Code. Paste the following code before the last`</dict>`.
 
 ```xml

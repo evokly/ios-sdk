@@ -119,7 +119,7 @@ SWIFT_CLASS("_TtC6Evokly6Evokly")
 /// If you want to support Advertising Identifier, you should get if iOS and pass to this function. This will require you to set a proper policy, when distributing the app.
 ///
 /// \param idfa An identifier that defines an app install.
-+ (void)setIFDA:(NSString * _Nonnull)idfa;
++ (void)setAdvertisingIdentifier:(NSString * _Nonnull)identifier;
 
 /// Register and start evokly. Call this in AppDelegate didFinishLaunching. This method reponds to only a first call.
 ///
