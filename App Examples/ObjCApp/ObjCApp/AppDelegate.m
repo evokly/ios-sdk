@@ -15,8 +15,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    NSString * publicApiKey = @"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjU3NjdlYzI5NWJlNDBiMTIwMGI2MTc2NS"
-    "IsInByb2plY3QiOiI1NzY3ZWI4ZDViNzcyMjEzMDA5ZGRkMWMiLCJpYXQiOjE0NjY0Mjg0NTd9.y70wPn5s9405Nx-k9joCRWvDt2zodTw0b_183SvYDoU";
+    NSString * publicApiKey = @"Your Public API Key";
     // Start Evokly framework with your subdomain and public API key.
     [Evokly registerWithSubdomain:@"example" publicApiKey:publicApiKey];
     

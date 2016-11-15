@@ -13,29 +13,28 @@ import Evokly
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
-    func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-
-        let publicApiKey = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjU3NjdlYzI5NWJlNDBiMTIwMGI2MTc2NSIsInByb2plY3QiOiI1NzY" +
-        "3ZWI4ZDViNzcyMjEzMDA5ZGRkMWMiLCJpYXQiOjE0NjY0Mjg0NTd9.y70wPn5s9405Nx-k9joCRWvDt2zodTw0b_183SvYDoU"
-
+    
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey : Any]? = nil) -> Bool {
+        
+        let publicApiKey = "Your Public API Key"
+        
         // Start Evokly framework with your subdomain and public API key.
         Evokly.register(subdomain:"example", publicApiKey: publicApiKey)
-
+        
         return true
     }
 
-    func application(app: UIApplication, openURL url: NSURL, options: [String : AnyObject]) -> Bool {
+    func application(_ app: UIApplication, open url: URL, options: [UIApplicationOpenURLOptionsKey : Any] = [:]) -> Bool {
         //iOS 9 and later
         //Evokly uses urls to work with other apps.
-        let handled = Evokly.handleURL(url, sourceApplication: options["UIApplicationOpenURLOptionsSourceApplicationKey"] as? String)
+        let handled = Evokly.handleURL(url, sourceApplication: options[UIApplicationOpenURLOptionsKey("UIApplicationOpenURLOptionsSourceApplicationKey")] as? String)
         if !handled {
             //Custom logic here
         }
         return handled
     }
 
-    func application(application: UIApplication, openURL url: NSURL, sourceApplication: String?, annotation: AnyObject) -> Bool {
+    func application(_ application: UIApplication, open url: URL, sourceApplication: String?, annotation: Any) -> Bool {
         //Prior to iOS 9.
         //Evokly uses urls to work with other apps.
         let handled = Evokly.handleURL(url, sourceApplication: sourceApplication)
@@ -45,12 +44,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return handled
     }
 
-
-    func application(application: UIApplication, didReceiveLocalNotification notification: UILocalNotification) {
+    func application(_ application: UIApplication, didReceive notification: UILocalNotification) {
         //Evokly uses notification to notify user when there's a beacon.
         let handled = Evokly.handleNotification(notification)
         if !handled {
             //Cusom logic here
         }
+        
     }
 }

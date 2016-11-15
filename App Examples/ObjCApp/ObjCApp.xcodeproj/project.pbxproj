@@ -131,6 +131,7 @@
 				TargetAttributes = {
 					7DEF5F9A1D11690D00C43A93 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = NR54YBCZKV;
 					};
 				};
 			};
@@ -301,6 +302,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = NR54YBCZKV;
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				FRAMEWORK_SEARCH_PATHS = ../../;
 				INFOPLIST_FILE = ObjCApp/Info.plist;
@@ -316,6 +318,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = NR54YBCZKV;
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				FRAMEWORK_SEARCH_PATHS = ../../;
 				INFOPLIST_FILE = ObjCApp/Info.plist;
