@@ -1,6 +1,6 @@
 ![logo](https://evok.ly/wp-content/uploads/2016/06/evo-ost.png)
 
-#iOS SDK
+#iOS SDK for Swift 3
 *beacons proximity marketing platform*
 
 
@@ -38,7 +38,7 @@ carthage checkout
 
 ### Register
 Get your Public API Key from https://evok.ly and pass it along with subdomain to register funcion.
-In `application(application:didFinishLaunchingWithOptions launchOptions:)`:
+In `func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey : Any]? = nil)`:
 
 ```swift
 Evokly.register(subdomain: "mySweetDomain", publicApiKey: "Long api key")
@@ -48,7 +48,7 @@ Evokly.register(subdomain: "mySweetDomain", publicApiKey: "Long api key")
 before iOS 9:
 
 ```swift
-func application(application: UIApplication, openURL url: NSURL, sourceApplication: String?,  annotation: AnyObject) -> Bool {
+func application(_ application: UIApplication, open url: URL, sourceApplication: String?, annotation: Any)) -> Bool {
    let handled = Evokly.handleURL(url, sourceApplication: sourceApplication)
    //Custom logic here
    return handled
@@ -58,8 +58,8 @@ func application(application: UIApplication, openURL url: NSURL, sourceApplicati
 for iOS 9 and later:
 
 ```swift
-func application(app: UIApplication, openURL url: NSURL, options: [String : AnyObject]) -> Bool {
-    let handled = Evokly.handleURL(url, sourceApplication: options["UIApplicationOpenURLOptionsSourceApplicationKey"] as? String)
+func application(_ app: UIApplication, open url: URL, options: [UIApplicationOpenURLOptionsKey : Any] = [:]) -> Bool {
+        let handled = Evokly.handleURL(url, sourceApplication: options[UIApplicationOpenURLOptionsKey("UIApplicationOpenURLOptionsSourceApplicationKey")] as? String)
     //Custom logic here
     return handled
 }
@@ -83,7 +83,7 @@ Right click your `Info.plist` and Open as Source Code. Paste the following code 
 Then in **AppDelegate**:
 
 ```swift
-func application(application: UIApplication, didReceiveLocalNotification notification: UILocalNotification) {
+func application(_ application: UIApplication, didReceive notification: UILocalNotification) {
     let handled = Evokly.handleNotification(notification)
      //Cusom logic here
 }

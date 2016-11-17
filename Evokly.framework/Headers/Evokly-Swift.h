@@ -130,8 +130,7 @@ SWIFT_CLASS("_TtC6Evokly6Evokly")
 /**
   If your app have a capability of working in background, eg. Location Background Mode.
   Then setting this flag will result in ranging beacons non stop when user enters a region.
-  \param mode flag deciding if we want ot use full background mode.
-
+  varparameter mode: flag deciding if we want ot use full background mode.
 */
 + (void)setFullBackgroundLocationMode:(BOOL)mode;
 /**
