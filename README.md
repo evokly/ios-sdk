@@ -112,6 +112,8 @@ Right click your `Info.plist` and Open as Source Code. Paste the following code 
 ```xml
 <key>NSLocationAlwaysUsageDescription</key>
 <string>App needs your location to work with beacons.</string>
+<key>NSBluetoothPeripheralUsageDescription</key>
+<string>App needs bluetooth to work with beacons.</string>
 ```
 
 
