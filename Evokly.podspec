@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   
   s.name                  = "Evokly"
   s.summary               = "iOS library for Evokly beacon system."
-  s.version               = "2.0.3"
+  s.version               = "2.0.4"
   s.author                = { "Evokly S.A." => "info@evok.ly" }
   
   s.homepage              = "https://github.com/evokly/ios-sdk"
