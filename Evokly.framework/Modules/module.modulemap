@@ -6,4 +6,5 @@ framework module Evokly {
 
 module Evokly.Swift {
     header "Evokly-Swift.h"
+    requires objc
 }
