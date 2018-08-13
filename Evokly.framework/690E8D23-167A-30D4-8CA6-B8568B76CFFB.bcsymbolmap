@@ -931,7 +931,7 @@ __T06Evokly10ButtonSizeO17_protobuf_nameMap13SwiftProtobuf05_NameF0Vvau
 __T06Evokly10ButtonSizeO13SwiftProtobuf19_ProtoNameProvidingAadEP17_protobuf_nameMapAD01_gK0VvgZTW
 __T0So6NSDataC14WritingOptionsVs25ExpressibleByArrayLiteral10FoundationsAEPx0fG7ElementQz05arrayG0d_tcfCTW
 __T0So6NSDataC14WritingOptionsVs9Equatable10FoundationsAEP2eeoiSbx_xtFZTW
-___swift_memcpy4_4
+___swift_memcpy8_8
 ___swift_noop_void_return
 __T0So6NSDataC14WritingOptionsVMa
 __T0So6NSDataC14WritingOptionsVs10SetAlgebra10FoundationsAEPxycfCTW
@@ -1076,7 +1076,12 @@ __T0SC13CLRegionStateOwui
 __T0SC13CLRegionStateOs16RawRepresentable12CoreLocationsACPxSg0C5ValueQz03rawG0_tcfCTW
 __T0SC13CLRegionStateOs16RawRepresentable12CoreLocationsACP8rawValue0cH0QzvgTW
 __T0SC21CLAuthorizationStatusOs9Equatable12CoreLocationsACP2eeoiSbx_xtFZTW
+___swift_memcpy4_4
+__T0SC21CLAuthorizationStatusOwet
+__T0SC21CLAuthorizationStatusOwst
+__T0SC21CLAuthorizationStatusOwug
 __T0SC21CLAuthorizationStatusOwup
+__T0SC21CLAuthorizationStatusOwui
 __T0SC21CLAuthorizationStatusOs16RawRepresentable12CoreLocationsACPxSg0C5ValueQz03rawG0_tcfCTW
 __T0SC21CLAuthorizationStatusOs16RawRepresentable12CoreLocationsACP8rawValue0cH0QzvgTW
 __T0SC18UIApplicationStateOs9Equatable5UIKitsACP2eeoiSbx_xtFZTW
@@ -1154,7 +1159,7 @@ __T0So10NSCalendarC4UnitVs9OptionSet10FoundationsAEPx8RawValueQz03rawG0_tcfCTW
 __T0SC22UIUserNotificationTypeVs16RawRepresentable5UIKitsACPxSg0D5ValueQz03rawG0_tcfCTW
 __T0SC22UIUserNotificationTypeVs16RawRepresentable5UIKitsACP8rawValue0dH0QzvgTW
 __T0SC22UIUserNotificationTypeVs9OptionSet5UIKitsACPx8RawValueQz03rawH0_tcfCTW
-___swift_memcpy5_4
+___swift_memcpy9_8
 __T06Evokly10ButtonSizeOwet
 __T06Evokly10ButtonSizeOwst
 __T06Evokly10ButtonSizeOwug
@@ -1186,23 +1191,17 @@ __T0s20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditio
 __T0s20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1CSbAD_01_D5CTypeQZ_xSgz6resulttFZSo8NSLocaleC3KeyV_Tgq5Tf4gnd_n
 __T0s20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1CSbAD_01_D5CTypeQZ_xSgz6resulttFZSo14NSNotificationC4NameV_Tgq5Tf4gnd_n
 __T0s20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1CSbAD_01_D5CTypeQZ_xSgz6resulttFZSC05NSKeyG9ChangeKeyV_Tgq5Tf4gnd_nTm
+__T0So14NSNotificationC4NameVwxs
+__T0SC19NSKeyValueChangeKeyVwxs
+__T0SC22UIInterfaceOrientationOwui
+__T0SC16MQTTSessionEventOwui
+__T0SC18UIApplicationStateOwui
+__T0SC17MQTTSessionStatusOwui
+__T0So8NSLocaleC3KeyVwxs
 __T0So14NSNotificationC4NameVwta
 __T0So8NSLocaleC3KeyVwta
-__T0So14NSNotificationC4NameVwst
-__T0So8NSLocaleC3KeyVwst
 __T0So14NSNotificationC4NameVwcp
 __T0So8NSLocaleC3KeyVwcp
-__T0So6NSDataC14WritingOptionsVwst
-__T0SC26NSKeyValueObservingOptionsVwst
-__T0SC16MQTTSessionEventOwst
-__T0SC22UIInterfaceOrientationOwst
-__T0So10NSCalendarC4UnitVwst
-__T0SC13CLRegionStateOwst
-__T0SC21CLAuthorizationStatusOwst
-__T0SC18UIApplicationStateOwst
-__T0SC22UIUserNotificationTypeVwst
-__T0SC14UIControlStateVwst
-__T0SC17MQTTSessionStatusOwst
 __T0So14NSNotificationC4NameVwCP
 __T0So8NSLocaleC3KeyVwCP
 __T0So6NSDataC14WritingOptionsVs10SetAlgebra10FoundationsAEP8containsSb7ElementQzFTW
@@ -1211,38 +1210,40 @@ __T0SC10UIRectEdgeVs10SetAlgebra5UIKitsACP8containsSb7ElementQzFTW
 __T0So10NSCalendarC4UnitVs10SetAlgebra10FoundationsAEP8containsSb7ElementQzFTW
 __T0SC22UIUserNotificationTypeVs10SetAlgebra5UIKitsACP8containsSb7ElementQzFTW
 __T0SC14UIControlStateVs10SetAlgebra5UIKitsACP8containsSb7ElementQzFTW
-__T0So14NSNotificationC4NameVwet
-__T0So8NSLocaleC3KeyVwet
+__T0So14NSNotificationC4NameVwst
+__T0So8NSLocaleC3KeyVwst
 __T0So6NSDataC14WritingOptionsVwet
 __T0SC26NSKeyValueObservingOptionsVwet
 __T0SC16MQTTSessionEventOwet
 __T0SC22UIInterfaceOrientationOwet
 __T0So10NSCalendarC4UnitVwet
 __T0SC13CLRegionStateOwet
-__T0SC21CLAuthorizationStatusOwet
 __T0SC18UIApplicationStateOwet
 __T0SC22UIUserNotificationTypeVwet
 __T0SC14UIControlStateVwet
 __T0SC17MQTTSessionStatusOwet
 __T0So14NSNotificationC4NameVwca
 __T0So8NSLocaleC3KeyVwca
-__T0So14NSNotificationC4NameVwxs
-__T0SC19NSKeyValueChangeKeyVwxs
-__T0SC22UIInterfaceOrientationOwui
-__T0SC16MQTTSessionEventOwui
-__T0SC21CLAuthorizationStatusOwui
-__T0SC18UIApplicationStateOwui
-__T0SC17MQTTSessionStatusOwui
-__T0So8NSLocaleC3KeyVwxs
-__T0SC22UIInterfaceOrientationOwug
-__T0SC16MQTTSessionEventOwug
-__T0SC21CLAuthorizationStatusOwug
-__T0SC18UIApplicationStateOwug
-__T0SC17MQTTSessionStatusOwug
+__T0So6NSDataC14WritingOptionsVwst
+__T0SC26NSKeyValueObservingOptionsVwst
+__T0SC16MQTTSessionEventOwst
+__T0SC22UIInterfaceOrientationOwst
+__T0So10NSCalendarC4UnitVwst
+__T0SC13CLRegionStateOwst
+__T0SC18UIApplicationStateOwst
+__T0SC22UIUserNotificationTypeVwst
+__T0SC14UIControlStateVwst
+__T0SC17MQTTSessionStatusOwst
+__T0So14NSNotificationC4NameVwet
+__T0So8NSLocaleC3KeyVwet
 __T0So14NSNotificationC4NameVwxx
 __T0So8NSLocaleC3KeyVwxx
 __T0So14NSNotificationC4NameVwxg
 __T0So8NSLocaleC3KeyVwxg
+__T0SC22UIInterfaceOrientationOwug
+__T0SC16MQTTSessionEventOwug
+__T0SC18UIApplicationStateOwug
+__T0SC17MQTTSessionStatusOwug
 _globalinit_33_52FCE81AC1AB76E359718B0DEA727CC2_token0
 __T06Evokly10ButtonSizeO17_protobuf_nameMap13SwiftProtobuf05_NameF0VvpZ
 _globalinit_33_A81D45FB19E696EE9052F6F2AE33F641_token1
@@ -1641,7 +1642,7 @@ ___profd__T0So8NSLocaleC3KeyVADSS8rawValue_tcfC
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_size.pb.swift:_T06Evokly10ButtonSizeOACSgSi8rawValue_tcfC
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_size.pb.swift:_T06Evokly10ButtonSizeOACSgSi8rawValue_tcfC
 __T06Evokly10ButtonSizeON
--emit-bc /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_size.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/device.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/horizontal_alignment.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/analytics/environment.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/GeofenceRegion.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/thing_config.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Trigger+Checker.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/EventComposer.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ActionPlayer.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/endpoints/config/endpoints/mqtt.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TextContentPanel+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/background.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/text_content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_beacon.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/UIImageView+URL.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Target+Helper.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/notification_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/init.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Evokly.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/notification.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Notifications.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconManager.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/beacon.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TriggerActivator.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_beacon_range.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugActionsViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/application.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/URLHandler.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Cloudinary.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugLogViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ImagePanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Config+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Constants.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/HaversineCalculator.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Network.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ImageCache.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Cache.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/endpoints/config/endpoints/http.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/EndpointsRequest.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Thread.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Analytics.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/geo_location.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Endpoints+Getters.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/analytics/event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/status.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/VideoAction+Player.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/structure/config/structure/beacon_group.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/APIConf.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/analytics/neighborhood.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/CLBeaconRegion+Equatable.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/tap_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/thing_parameters.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/condition.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Beacon+State.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TriggerCache.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ConfigCache.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/SizeableButton.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugBeaconsViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/UIViewController+Show.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TextPanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/config.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/video_action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/trigger_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_geofence_transition.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ButtonPanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentPanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Readable.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Logger.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ConfigRequest.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Condition+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/UIColor+ARGB.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/text_style.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/VideoPlayerViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugCell.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_container.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_style.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/action_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconGroup+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_geofence.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/image_content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ConfigManager.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/target.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/webhook_action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_sensor.pb.swift -target armv7-apple-ios8.0 -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk -I /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Products/Release-iphoneos -F /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Products/Release-iphoneos -F /Users/tetek/Code/clients/evokly/goldfish/Evokly/Carthage/Build/iOS -g -import-underlying-module -module-cache-path /Users/tetek/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -profile-generate -profile-coverage-mapping -swift-version 3 -O -serialize-debugging-options -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-generated-files.hmap -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-own-target-headers.hmap -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-project-headers.hmap -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Products/Release-iphoneos/include -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/DerivedSources/armv7 -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/tetek/Code/clients/evokly/goldfish/Evokly -emit-module-doc-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Evokly.swiftdoc -serialize-diagnostics-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/button_size.pb.dia -module-name Evokly -emit-module-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Evokly.swiftmodule -emit-objc-header-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Evokly-Swift.h -emit-dependencies-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/button_size.pb.d -num-threads 4 -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/button_size.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/device.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/horizontal_alignment.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/environment.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/GeofenceRegion.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/thing_config.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Trigger+Checker.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/EventComposer.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ActionPlayer.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/mqtt.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/TextContentPanel+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/background.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/text_content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/analytics_beacon.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/UIImageView+URL.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Target+Helper.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/notification_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/init.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Evokly.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/notification.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Notifications.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/content_action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/BeaconManager.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/beacon.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/TriggerActivator.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/analytics_beacon_range.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/DebugActionsViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/application.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/URLHandler.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Cloudinary.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/DebugLogViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ImagePanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Config+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Constants.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/HaversineCalculator.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Network.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ImageCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Cache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/http.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/EndpointsRequest.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Thread.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Analytics.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/geo_location.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Endpoints+Getters.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/status.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/VideoAction+Player.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/beacon_group.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/APIConf.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/neighborhood.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/CLBeaconRegion+Equatable.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/tap_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/thing_parameters.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/condition.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Beacon+State.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/TriggerCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ConfigCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/SizeableButton.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/DebugBeaconsViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/button_content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/UIViewController+Show.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/TextPanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/config.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/video_action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/trigger_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/analytics_geofence_transition.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ButtonPanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ContentPanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Readable.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Logger.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ConfigRequest.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Condition+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/UIColor+ARGB.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/text_style.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/VideoPlayerViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/DebugCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/endpoints.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/content_container.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/trigger.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/BeaconCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/button_style.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/action_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/BeaconGroup+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/analytics_geofence.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/image_content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ContentViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/ConfigManager.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/Date+Weekday.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/target.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/DebugViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/webhook_action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/armv7/analytics_sensor.pb.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+-emit-bc /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_size.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/device.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/horizontal_alignment.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/analytics/environment.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/GeofenceRegion.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/thing_config.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Trigger+Checker.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/EventComposer.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ActionPlayer.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/endpoints/config/endpoints/mqtt.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TextContentPanel+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/background.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/text_content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_beacon.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/UIImageView+URL.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Target+Helper.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/notification_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/init.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Evokly.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/notification.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Notifications.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconManager.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/beacon.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TriggerActivator.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_beacon_range.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugActionsViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/application.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/URLHandler.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Cloudinary.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugLogViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ImagePanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Config+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Constants.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/HaversineCalculator.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Network.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ImageCache.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Cache.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/endpoints/config/endpoints/http.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/EndpointsRequest.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Thread.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Analytics.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/geo_location.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Endpoints+Getters.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/analytics/event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/status.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/VideoAction+Player.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/structure/config/structure/beacon_group.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/APIConf.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/analytics/neighborhood.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/CLBeaconRegion+Equatable.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/tap_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/thing_parameters.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/condition.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Beacon+State.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TriggerCache.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ConfigCache.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/SizeableButton.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugBeaconsViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/UIViewController+Show.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/TextPanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/config.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/video_action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/trigger_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_geofence_transition.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ButtonPanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentPanelCell.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Readable.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Logger.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ConfigRequest.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Condition+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/UIColor+ARGB.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/text_style.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/VideoPlayerViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugCell.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_container.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_style.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/event/analytics/event/action_event.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconGroup+Common.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_geofence.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/image_content_panel.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ConfigManager.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/target.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/DebugViewController.swift /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/webhook_action.pb.swift /Users/tetek/Code/clients/evokly/goldfish/Model/analytics/common/analytics/common/analytics_sensor.pb.swift -target arm64-apple-ios8.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.4.sdk -I /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Products/Release-iphoneos -F /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Products/Release-iphoneos -F /Users/tetek/Code/clients/evokly/goldfish/Evokly/Carthage/Build/iOS -g -import-underlying-module -module-cache-path /Users/tetek/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -profile-generate -profile-coverage-mapping -swift-version 3 -O -serialize-debugging-options -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-generated-files.hmap -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-own-target-headers.hmap -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Evokly-project-headers.hmap -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Products/Release-iphoneos/include -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/DerivedSources/arm64 -Xcc -I/Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/tetek/Code/clients/evokly/goldfish/Evokly -emit-module-doc-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Evokly.swiftdoc -serialize-diagnostics-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/button_size.pb.dia -module-name Evokly -emit-module-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Evokly.swiftmodule -emit-objc-header-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Evokly-Swift.h -emit-dependencies-path /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/button_size.pb.d -num-threads 4 -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/button_size.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/device.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/horizontal_alignment.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/environment.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/GeofenceRegion.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/thing_config.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Trigger+Checker.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/EventComposer.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ActionPlayer.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/mqtt.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/TextContentPanel+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/background.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/text_content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/analytics_beacon.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/UIImageView+URL.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Target+Helper.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/notification_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/init.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Evokly.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/notification.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Notifications.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/content_action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/BeaconManager.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/beacon.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/TriggerActivator.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/analytics_beacon_range.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/DebugActionsViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/application.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/URLHandler.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Cloudinary.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/DebugLogViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ImagePanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Config+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Constants.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/HaversineCalculator.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Network.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ImageCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Cache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/http.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/EndpointsRequest.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Thread.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Analytics.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/geo_location.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Endpoints+Getters.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/status.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/VideoAction+Player.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/beacon_group.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/APIConf.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/neighborhood.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/CLBeaconRegion+Equatable.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/tap_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/thing_parameters.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/condition.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Beacon+State.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/TriggerCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ConfigCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/SizeableButton.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/DebugBeaconsViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/button_content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/UIViewController+Show.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/TextPanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/config.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/video_action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/trigger_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/analytics_geofence_transition.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ButtonPanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ContentPanelCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Readable.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Logger.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ConfigRequest.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Condition+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/UIColor+ARGB.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/text_style.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/VideoPlayerViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/DebugCell.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/endpoints.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/content_container.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/trigger.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/BeaconCache.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/button_style.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/action_event.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/BeaconGroup+Common.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/analytics_geofence.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/image_content_panel.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ContentViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/ConfigManager.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/Date+Weekday.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/target.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/DebugViewController.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/webhook_action.pb.bc -o /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/Objects-normal/arm64/analytics_sensor.pb.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
 <swift-imported-modules>
 Apple Swift version 4.1.2 effective-3.3.2 (swiftlang-902.0.54 clang-902.0.39.2)
 /Users/tetek/Code/clients/evokly/goldfish/Model/config/action/content_panel/config/action/content_panel/button_size.pb.swift
@@ -1685,7 +1686,7 @@ _T06Evokly10ButtonSizeOwup
 _T06Evokly10ButtonSizeOwug
 _T06Evokly10ButtonSizeOwst
 _T06Evokly10ButtonSizeOwet
-__swift_memcpy5_4
+__swift_memcpy9_8
 get_field_types_Key
 _T0So8NSStringCMa
 _unconditionallyBridgeFromObjectiveC
@@ -1711,7 +1712,12 @@ get_field_types_UIUserNotificationType
 get_field_types_UIApplicationState
 _T0SC18UIApplicationStateOwup
 get_field_types_CLAuthorizationStatus
+_T0SC21CLAuthorizationStatusOwui
 _T0SC21CLAuthorizationStatusOwup
+_T0SC21CLAuthorizationStatusOwug
+_T0SC21CLAuthorizationStatusOwst
+_T0SC21CLAuthorizationStatusOwet
+__swift_memcpy4_4
 _T0s5Int32Vs9EquatablessACP2eeoiSbx_xtFZTW
 get_field_types_CLRegionState
 _T0SC13CLRegionStateOwui
@@ -1745,7 +1751,7 @@ update
 _T0So6NSDataC14WritingOptionsVMa
 get_field_types_WritingOptions
 __swift_noop_void_return
-__swift_memcpy4_4
+__swift_memcpy8_8
 _protobuf_nameMap.get
 _T06Evokly10ButtonSizeO17_protobuf_nameMap13SwiftProtobuf05_NameF0Vvau
 globalinit_33_52FCE81AC1AB76E359718B0DEA727CC2_func0
@@ -1792,9 +1798,9 @@ __T06Evokly6DeviceVwCP
 __T06Evokly6DeviceVwxx
 __T06Evokly6DeviceVwcp
 __T06Evokly6DeviceVwca
-___swift_memcpy68_4
+___swift_memcpy136_8
 __T06Evokly6DeviceVwta
-___swift_copy_outline_existential_box_pointer4
+___swift_copy_outline_existential_box_pointer8
 __T06Evokly6DeviceVwet
 __T06Evokly6DeviceVwst
 __T06Evokly6DeviceVMa
@@ -1895,9 +1901,9 @@ _T06Evokly6DeviceVMa
 get_field_types_Device
 _T06Evokly6DeviceVwst
 _T06Evokly6DeviceVwet
-__swift_copy_outline_existential_box_pointer4
+__swift_copy_outline_existential_box_pointer8
 _T06Evokly6DeviceVwta
-__swift_memcpy68_4
+__swift_memcpy136_8
 _T06Evokly6DeviceVwca
 _T06Evokly6DeviceVwcp
 _T06Evokly6DeviceVwxx
@@ -2015,9 +2021,8 @@ __T06Evokly21AnalyticsSensorMomentVwCP
 __T06Evokly21AnalyticsSensorMomentVwxx
 __T06Evokly21AnalyticsSensorMomentVwcp
 __T06Evokly21AnalyticsSensorMomentVwca
-___swift_memcpy28_8
+___swift_memcpy40_8
 __T06Evokly21AnalyticsSensorMomentVwta
-___swift_copy_outline_existential_box_pointer8
 __T06Evokly21AnalyticsSensorMomentVwet
 __T06Evokly21AnalyticsSensorMomentVwst
 __T06Evokly21AnalyticsSensorMomentVwxs
@@ -2125,9 +2130,8 @@ _T06Evokly21AnalyticsSensorMomentVwxg
 _T06Evokly21AnalyticsSensorMomentVwxs
 _T06Evokly21AnalyticsSensorMomentVwst
 _T06Evokly21AnalyticsSensorMomentVwet
-__swift_copy_outline_existential_box_pointer8
 _T06Evokly21AnalyticsSensorMomentVwta
-__swift_memcpy28_8
+__swift_memcpy40_8
 _T06Evokly21AnalyticsSensorMomentVwca
 _T06Evokly21AnalyticsSensorMomentVwcp
 _T06Evokly21AnalyticsSensorMomentVwxx
@@ -2252,6 +2256,7 @@ _T06Evokly11ThingConfigV13_StorageClass33_3CE30280DCCF7F08F7697B2B669BF388LLCs5E
 _T06Evokly11ThingConfigV8traverseyxz7visitor_tK13SwiftProtobuf7VisitorRzlFyAC13_StorageClass33_3CE30280DCCF7F08F7697B2B669BF388LLCKcfU_
 _T06Evokly11ThingConfigV13decodeMessageyxz7decoder_tK13SwiftProtobuf7DecoderRzlFyAC13_StorageClass33_3CE30280DCCF7F08F7697B2B669BF388LLCKcfU_
 _T06Evokly11ThingConfigV13_StorageClass33_3CE30280DCCF7F08F7697B2B669BF388LLCMa
+__T010Foundation4DateV6EvoklyE12getDayOfWeeks5Int32VACFZTf4nd_n
 __T010Foundation4DateV6EvoklyE22getMinutesFromMidnights5Int32VACFZTf4nd_n
 __T06Evokly7TriggerV10timeChecksSb10Foundation4DateVFTf4nx_n
 __T06Evokly12TriggerCacheC16getLastTimeStamp10Foundation4DateVSgSSFZTf4gXd_n
@@ -2268,10 +2273,6 @@ ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.p
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift:_T06Evokly7TriggerV4timeAC4TimeVvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift:_T06Evokly7TriggerV4TimeVAEycfC
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift:_T06Evokly7TriggerV4TimeVAEycfC
-___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift:_T010Foundation4DateV6EvoklyE12getDayOfWeeks5Int32VACFZ
-___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift:_T010Foundation4DateV6EvoklyE12getDayOfWeeks5Int32VACFZ
-___profc__T0So10NSCalendarC4UnitV7weekdayADvgZ
-___profd__T0So10NSCalendarC4UnitV7weekdayADvgZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift:_T06Evokly7TriggerV2idSSvg
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift:_T06Evokly7TriggerV2idSSvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/trigger.pb.swift:_T06Evokly7TriggerV13_StorageClass33_943DEB3AB77588E175D2F06773956894LLC3_idSSvg
@@ -2287,7 +2288,6 @@ repeatTime.get
 getLastTimeStamp
 id.get
 timeChecks
-getDayOfWeek
 _T0SayxGs10CollectionssABP9formIndexy0C0Qzz5after_tFTW6Evokly7TriggerV4TimeV5HoursV_Tg5
 _T0Sa9formIndexySiz5after_tF6Evokly7TriggerV4TimeV5HoursV_Tg5
 _T0SayxGs10CollectionssABP7ElementQz5IndexQzcigTW6Evokly7TriggerV4TimeV5HoursV_Tg5
@@ -2298,6 +2298,7 @@ _T0Sa8endIndexSivg6Evokly7TriggerV4TimeV5HoursV_Tg5
 _T0Sa9_getCountSiyF6Evokly7TriggerV4TimeV5HoursV_Tg5
 getMinutesFromMidnight
 count.get
+getDayOfWeek
 hasTime.get
 __T06Evokly13EventComposerC4idfaSSSgvgTo
 __T06Evokly13EventComposerC4idfaSSSgvsTo
@@ -2374,7 +2375,6 @@ __T06Evokly12NeighborhoodV13_StorageClass33_AD62C3E70C2A3064B9F485410D66AEC0LLCA
 __T06Evokly13EventComposerC15getNeighborhoodAA0E0VSgSayAA18BeaconsRangeMomentVGFTf4gn_n
 __T06Evokly13EventComposerC23getGeofenceNeighborhoodAA0F0VSgSayAA0E16TransitionMomentVG7moments_tFTf4gn_n
 __T0s25_unimplementedInitializers5NeverOs12StaticStringV9className_AE04initG0AE4fileSu4lineSu6columntFySRys5UInt8VGcfU0_yAMcfU_Tf4xx_n
-__T06Evokly13EventComposerCACycfcTf4d_n
 __T06Evokly12NeighborhoodV13_StorageClass33_AD62C3E70C2A3064B9F485410D66AEC0LLCMa
 __T06Evokly11ApplicationVWs
 __T0SqWy.15
@@ -2547,10 +2547,6 @@ _OBJC_CLASS_$__TtC6Evokly13EventComposer
 /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/EventComposer.swift
 _T06Evokly11ApplicationVWs
 EventComposer.swift
-_T0s12StaticStringV14withUTF8BufferxxSRys5UInt8VGclFyt_Tgq5
-_T0SRys5UInt8VGIgy_ACytIgyr_TR
-_T0s25_unimplementedInitializers5NeverOs12StaticStringV9className_AE04initG0AE4fileSu4lineSu6columntFySRys5UInt8VGcfU0_
-_T0s25_unimplementedInitializers5NeverOs12StaticStringV9className_AE04initG0AE4fileSu4lineSu6columntFySRys5UInt8VGcfU0_yAMcfU_
 getGeofenceNeighborhood
 geofenceTransitions.set
 application.set
@@ -2590,7 +2586,6 @@ _T06Evokly27AnalyticsGeofenceTransitionVSgADs5Error_pIgxozo_A2DsAE_pIgirzo_TR
 _T06Evokly13EventComposerC27getGeofenceTransitionMomentAA0efG0VSgSayAA0E6RegionCG15geofenceRegions_AA0eF0O4typetFAA09AnalyticseF0VSgAQcfU0_
 _T0SayxGs10CollectionssABP7ElementQz5IndexQzcigTW6Evokly27AnalyticsGeofenceTransitionVSg_Tg5
 _T0Sa11_getElementxSi_Sb20wasNativeTypeCheckeds16_DependenceTokenV22matchingSubscriptChecktF6Evokly27AnalyticsGeofenceTransitionVSg_Tg5
-_T0Sd18exponentBitPatternSuvg
 _T0SayxGs10CollectionssABP8endIndex0C0QzvgTW6Evokly27AnalyticsGeofenceTransitionVSg_Tg5
 _T0Sa8endIndexSivg6Evokly27AnalyticsGeofenceTransitionVSg_Tg5
 _T0Sa9_getCountSiyF6Evokly27AnalyticsGeofenceTransitionVSg_Tg5
@@ -2699,6 +2694,10 @@ _T0s12_ArrayBufferV19_getElementSlowPathyXlSiF6Evokly14GeofenceRegionC_Tg5
 _T0Sa16_copyToNewBufferySi8oldCount_tF6Evokly20AnalyticsBeaconRangeV_Tg5
 _T0s20_ArrayBufferProtocolPsE22_arrayOutOfPlaceUpdateys011_ContiguousaB0Vy7ElementQzGz_S2iqd__ts16_PointerFunctionRd__AFQyd__AGRSlFs01_aB0Vy6Evokly20AnalyticsBeaconRangeVG_s07_IgnoreK0VyAOGTg5
 _T0s15ContiguousArrayV15reserveCapacityySiF6Evokly20AnalyticsBeaconRangeVSg_Tg5
+_T0s12StaticStringV14withUTF8BufferxxSRys5UInt8VGclFyt_Tgq5
+_T0SRys5UInt8VGIgy_ACytIgyr_TR
+_T0s25_unimplementedInitializers5NeverOs12StaticStringV9className_AE04initG0AE4fileSu4lineSu6columntFySRys5UInt8VGcfU0_
+_T0s25_unimplementedInitializers5NeverOs12StaticStringV9className_AE04initG0AE4fileSu4lineSu6columntFySRys5UInt8VGcfU0_yAMcfU_
 getTriggerEvent
 trigger.set
 getNotificationEvent
@@ -2718,14 +2717,14 @@ _globalinit_33_4D4AF1ABA6930BD21CB1E4B5B7D6AF8B_func116
 __T06Evokly21ContentViewControllerC9getPanelsyyF
 __T06Evokly21ContentViewControllerCACSSSg7nibName_So6BundleCSg6bundletcfc
 _globalinit_33_B4CA75FEAF74A047B49985CEEEEF24FA_func157
+__T06Evokly6ActionV06OneOf_B4TypeO2eeoiSbAE_AEtFZTf4ggd_n
 __T06Evokly6ConfigV9getActionAA0D0VSgSSFTf4gXx_n
 __T06Evokly9AnalyticsC15sendActionEventySSSg8actionId_AA0dE0V0D5StateO5statetFTf4gnn_n
 __T06Evokly11VideoActionV4playyyFTf4x_n
 __T06Evokly12ActionPlayerC04playB0ySSFTf4gXd_n
 __T06Evokly6ActionV06OneOf_B4TypeOWy
 __T06Evokly6ActionV06OneOf_B4TypeOWe
-__T0SqWy.11
-__T0SqWe.12
+__T0SqWe.10
 __T06Evokly21ContentViewControllerCMa
 __T0SqWy.13
 __T0SqWe.14
@@ -2743,11 +2742,9 @@ __swift_FORCE_LOAD_$_swiftCoreMedia_$_Evokly
 __T06Evokly13ConfigManagerC07defaultC0ACyFZ6StaticL_V14sharedInstanceACvpZ
 __T06Evokly11VideoActionV13_StorageClass33_4D4AF1ABA6930BD21CB1E4B5B7D6AF8BLLC15defaultInstanceAFvpZ
 __T06Evokly9AnalyticsC13eventComposerAA05EventD0CvpWvd
-__T06Evokly11VideoActionVN
-__T06Evokly11VideoActionV13SwiftProtobuf26_MessageImplementationBaseAAWP
-__T06Evokly13ContentActionVN
-__T06Evokly13ContentActionV13SwiftProtobuf7MessageAAWP
 __T06Evokly21ContentViewControllerC13contentActionAA0bF0VSgvpWvd
+__T06Evokly13ContentActionVN
+__T06Evokly13ContentActionV13SwiftProtobuf26_MessageImplementationBaseAAWP
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ActionPlayer.swift:_T06Evokly12ActionPlayerCfD
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ActionPlayer.swift:_T06Evokly12ActionPlayerCfD
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ActionPlayer.swift:_T06Evokly12ActionPlayerCACyc33_B1CA19B977D8EC1004192B9CF9FE10A7LlfC
@@ -2762,16 +2759,20 @@ ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/ac
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV2idSSvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV13_StorageClass33_83CFF25B607531DF475B95EB4BB104FALLC3_idSSvg
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV13_StorageClass33_83CFF25B607531DF475B95EB4BB104FALLC3_idSSvg
-___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV5videoAA05VideoB0Vvg
-___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV5videoAA05VideoB0Vvg
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV10actionTypeAC06OneOf_bD0OSgvg
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV10actionTypeAC06OneOf_bD0OSgvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV13_StorageClass33_83CFF25B607531DF475B95EB4BB104FALLC11_actionTypeAC06OneOf_bM0OSgvg
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV13_StorageClass33_83CFF25B607531DF475B95EB4BB104FALLC11_actionTypeAC06OneOf_bM0OSgvg
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV5videoAA05VideoB0Vvg
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV5videoAA05VideoB0Vvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/video_action.pb.swift:_T06Evokly11VideoActionVACycfC
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/video_action.pb.swift:_T06Evokly11VideoActionVACycfC
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV7contentAA07ContentB0Vvg
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV7contentAA07ContentB0Vvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_action.pb.swift:_T06Evokly13ContentActionVACycfC
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_action.pb.swift:_T06Evokly13ContentActionVACycfC
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV06OneOf_B4TypeO2eeoiSbAE_AEtFZ
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV06OneOf_B4TypeO2eeoiSbAE_AEtFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentViewController.swift:_T06Evokly21ContentViewControllerCACSSSg7nibName_So6BundleCSg6bundletcfC
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentViewController.swift:_T06Evokly21ContentViewControllerCACSSSg7nibName_So6BundleCSg6bundletcfC
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentViewController.swift:_T06Evokly21ContentViewControllerC13contentActionAA0bF0VSgvW
@@ -2783,6 +2784,7 @@ ActionPlayer.swift
 content.get
 contentAction.set
 contentAction.didset
+actionType.get
 video.get
 play
 sendActionEvent
@@ -2915,7 +2917,7 @@ __T06Evokly12MqttEndpointV0B10PropertiesV0B3QosOWb0_
 __T06Evokly12MqttEndpointVwxx
 __T06Evokly12MqttEndpointVwcp
 __T06Evokly12MqttEndpointVwca
-___swift_memcpy16_4
+___swift_memcpy32_8
 __T06Evokly12MqttEndpointVwta
 __T06Evokly12MqttEndpointVwet
 __T06Evokly12MqttEndpointVwst
@@ -2944,7 +2946,7 @@ __T06Evokly12MqttEndpointV0B10PropertiesVwCP
 __T06Evokly12MqttEndpointV0B10PropertiesVwxx
 __T06Evokly12MqttEndpointV0B10PropertiesVwcp
 __T06Evokly12MqttEndpointV0B10PropertiesVwca
-___swift_memcpy64_4
+___swift_memcpy120_8
 __T06Evokly12MqttEndpointV0B10PropertiesVwta
 __T06Evokly12MqttEndpointV0B10PropertiesVwet
 __T06Evokly12MqttEndpointV0B10PropertiesVwst
@@ -3262,7 +3264,7 @@ _T06Evokly12MqttEndpointV0B10PropertiesVwxs
 _T06Evokly12MqttEndpointV0B10PropertiesVwst
 _T06Evokly12MqttEndpointV0B10PropertiesVwet
 _T06Evokly12MqttEndpointV0B10PropertiesVwta
-__swift_memcpy64_4
+__swift_memcpy120_8
 _T06Evokly12MqttEndpointV0B10PropertiesVwca
 _T06Evokly12MqttEndpointV0B10PropertiesVwcp
 _T06Evokly12MqttEndpointV0B10PropertiesVwxx
@@ -3298,7 +3300,7 @@ _T06Evokly12MqttEndpointVwxs
 _T06Evokly12MqttEndpointVwst
 _T06Evokly12MqttEndpointVwet
 _T06Evokly12MqttEndpointVwta
-__swift_memcpy16_4
+__swift_memcpy32_8
 _T06Evokly12MqttEndpointVwca
 _T06Evokly12MqttEndpointVwcp
 _T06Evokly12MqttEndpointVwxx
@@ -3400,7 +3402,7 @@ __T06Evokly10BackgroundVwCP
 __T06Evokly10BackgroundVwxx
 __T06Evokly10BackgroundVwcp
 __T06Evokly10BackgroundVwca
-___swift_memcpy44_4
+___swift_memcpy88_8
 __T06Evokly10BackgroundVwta
 __T06Evokly10BackgroundVwet
 __T06Evokly10BackgroundVwst
@@ -3502,7 +3504,7 @@ get_field_types_Background
 _T06Evokly10BackgroundVwst
 _T06Evokly10BackgroundVwet
 _T06Evokly10BackgroundVwta
-__swift_memcpy44_4
+__swift_memcpy88_8
 _T06Evokly10BackgroundVwca
 _T06Evokly10BackgroundVwcp
 _T06Evokly10BackgroundVwxx
@@ -3739,7 +3741,7 @@ __T06Evokly15AnalyticsBeaconVMa
 __T06Evokly21AnalyticsBeaconParamsVwxx
 __T06Evokly21AnalyticsBeaconParamsVwcp
 __T06Evokly21AnalyticsBeaconParamsVwca
-___swift_memcpy32_4
+___swift_memcpy56_8
 __T06Evokly21AnalyticsBeaconParamsVwta
 __T06Evokly21AnalyticsBeaconParamsVMa
 __T06Evokly21AnalyticsBeaconParamsVs9EquatableAAWa
@@ -3758,6 +3760,7 @@ __T06Evokly15AnalyticsBeaconV29_protobuf_generated_isEqualToSbAC5other_tFTf4gXx_
 __T06Evokly15AnalyticsBeaconV06OneOf_C2IDOWb0_
 __T06Evokly15AnalyticsBeaconV06OneOf_C2IDOWr
 __T06Evokly15AnalyticsBeaconV06OneOf_C2IDOWs
+__T06Evokly15AnalyticsBeaconV06OneOf_C2IDOWrTm
 __T06Evokly21AnalyticsBeaconParamsV29_protobuf_generated_isEqualToSbAC5other_tFTf4gn_n
 __T06Evokly21AnalyticsBeaconParamsVWs
 __T06Evokly15AnalyticsBeaconV06OneOf_C2IDOwCP
@@ -3876,7 +3879,6 @@ _T06Evokly15AnalyticsBeaconV06OneOf_C2IDOwcp
 _T06Evokly15AnalyticsBeaconV06OneOf_C2IDOwxx
 _T06Evokly15AnalyticsBeaconV06OneOf_C2IDOwCP
 _T06Evokly21AnalyticsBeaconParamsVWs
-_T06Evokly15AnalyticsBeaconV06OneOf_C2IDOWs
 _T06Evokly15AnalyticsBeaconV06OneOf_C2IDOWr
 _T06Evokly15AnalyticsBeaconV06OneOf_C2IDOWb0_
 _T06Evokly15AnalyticsBeaconV13_StorageClass33_3A280B021630EE67D13677E1E4349FF5LLCAFSbs5Error_pIgxxdzo_AF_AFtSbsAG_pIgirzo_TR
@@ -3897,7 +3899,7 @@ _T06Evokly21AnalyticsBeaconParamsVs9EquatableAAWa
 _T06Evokly21AnalyticsBeaconParamsVMa
 get_field_types_AnalyticsBeaconParams
 _T06Evokly21AnalyticsBeaconParamsVwta
-__swift_memcpy32_4
+__swift_memcpy56_8
 _T06Evokly21AnalyticsBeaconParamsVwca
 _T06Evokly21AnalyticsBeaconParamsVwcp
 _T06Evokly21AnalyticsBeaconParamsVwxx
@@ -4011,7 +4013,7 @@ __T06Evokly17NotificationEventVwCP
 __T06Evokly17NotificationEventVwxx
 __T06Evokly17NotificationEventVwcp
 __T06Evokly17NotificationEventVwca
-___swift_memcpy40_4
+___swift_memcpy80_8
 __T06Evokly17NotificationEventVwta
 __T06Evokly17NotificationEventVwet
 __T06Evokly17NotificationEventVwst
@@ -4151,7 +4153,7 @@ get_field_types_NotificationEvent
 _T06Evokly17NotificationEventVwst
 _T06Evokly17NotificationEventVwet
 _T06Evokly17NotificationEventVwta
-__swift_memcpy40_4
+__swift_memcpy80_8
 _T06Evokly17NotificationEventVwca
 _T06Evokly17NotificationEventVwcp
 _T06Evokly17NotificationEventVwxx
@@ -4190,7 +4192,7 @@ __T06Evokly9InitEventVwCP
 __T06Evokly9InitEventVwxx
 __T06Evokly9InitEventVwcp
 __T06Evokly9InitEventVwca
-___swift_memcpy12_4
+___swift_memcpy24_8
 __T06Evokly9InitEventVwta
 __T06Evokly9InitEventVwet
 __T06Evokly9InitEventVwst
@@ -4246,7 +4248,7 @@ _T06Evokly9InitEventVwxs
 _T06Evokly9InitEventVwst
 _T06Evokly9InitEventVwet
 _T06Evokly9InitEventVwta
-__swift_memcpy12_4
+__swift_memcpy24_8
 _T06Evokly9InitEventVwca
 _T06Evokly9InitEventVwcp
 _T06Evokly9InitEventVwxx
@@ -4590,7 +4592,6 @@ __T0s20_ArrayBufferProtocolPsE025_forceCreateUniqueMutableB4Impls011_Contiguousa
 __T0s20_ArrayBufferProtocolPsE025_forceCreateUniqueMutableB4Impls011_ContiguousaB0Vy7ElementQzGSi08countForB0_Si14minNewCapacitySi08requiredO0tFAEy6Evokly12NotificationVG_Tg5
 __T0s11AnyHashableVs0B0ssACP9hashValueSivgTW
 __T0s11AnyHashableVs9EquatablessACP2eeoiSbx_xtFZTW
-__T0SS5IndexVABSi13encodedOffset_tcfCTf4nd_n
 __T0s23BidirectionalCollectionPsE8distanceSi5IndexQz4from_AE2totFSS14_CharacterViewV_Tgq5Tf4xxn_n
 __T06Evokly9AnalyticsC8sendDatay10Foundation0D0V_SS5topictFTf4gXgXn_n
 __T0s23_NativeDictionaryBufferVAByxq_GSi8capacity_s04_RawaB7StorageC7storagetcfCs11AnyHashableV_ypTg5Tf4nnd_n
@@ -4607,6 +4608,7 @@ __T06Evokly10URLHandlerC9runTargetAA8TapEventV0E11DestinationOAA0D0VFZTf4gd_n
 __T06Evokly13NotificationsC12presentInAppySayAA12NotificationVG_SS9triggerIdtFZySo13UIAlertActionCcfU_Tf4dxx_n
 __T06Evokly13NotificationsC12presentInAppySayAA12NotificationVG_SS9triggerIdtFZySo13UIAlertActionCcfU0_Tf4d_n
 __T06Evokly13NotificationsCMa
+__T0SqWy.11
 __T0SqWe.30
 __T0ypWb0_
 __T0s11AnyHashableVWb0_
@@ -4726,6 +4728,8 @@ _T0Sa8endIndexSivg6Evokly12NotificationV_Tg5
 _T0Sa9_getCountSiyF6Evokly12NotificationV_Tg5
 notifications.get
 hasConfig
+_T0SSs10CollectionssAAP8endIndex0C0QzvgTW
+_T0SS5IndexVABSi13encodedOffset_tcfC
 sendNotificationEvent
 sendEvent
 sendData
@@ -4735,8 +4739,6 @@ inAppText.get
 >
 _T0SSs10CollectionssAAP8distanceSi5IndexQz4from_AE2totFTW
 _T0s23BidirectionalCollectionPsE8distanceSi5IndexQz4from_AE2totFSS14_CharacterViewV_Tgq5
-_T0SSs10CollectionssAAP8endIndex0C0QzvgTW
-_T0SS5IndexVABSi13encodedOffset_tcfC
 _T06Evokly6TopicsV6EventsSSvau
 _T0SayxGs10CollectionssABP9formIndexy0C0Qzz5after_tFTWSo19UILocalNotificationC_Tg5
 _T0Sa9formIndexySiz5after_tFSo19UILocalNotificationC_Tg5
@@ -4853,7 +4855,6 @@ __T06Evokly13ContentActionVwCP
 __T06Evokly13ContentActionVwxx
 __T06Evokly13ContentActionVwcp
 __T06Evokly13ContentActionVwca
-___swift_memcpy28_4
 __T06Evokly13ContentActionVwta
 __T06Evokly13ContentActionVwet
 __T06Evokly13ContentActionVwst
@@ -4897,7 +4898,7 @@ __T06Evokly13ContentActionVs9EquatableAAWP
 __T06Evokly13ContentActionVs8HashableAAWP
 __T06Evokly13ContentActionVs28CustomDebugStringConvertibleAAWP
 __T06Evokly13ContentActionV13SwiftProtobuf19_ProtoNameProvidingAAWP
-__T06Evokly13ContentActionV13SwiftProtobuf26_MessageImplementationBaseAAWP
+__T06Evokly13ContentActionV13SwiftProtobuf7MessageAAWP
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_action.pb.swift:_T06Evokly13ContentActionV13decodeMessageyxz7decoder_tK13SwiftProtobuf7DecoderRzlF
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_action.pb.swift:_T06Evokly13ContentActionV13decodeMessageyxz7decoder_tK13SwiftProtobuf7DecoderRzlF
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/content_action.pb.swift:_T06Evokly13ContentActionV8traverseyxz7visitor_tK13SwiftProtobuf7VisitorRzlF
@@ -4928,7 +4929,6 @@ _T0Say6Evokly12ContentPanelVGMa
 _T06Evokly13ContentActionVwst
 _T06Evokly13ContentActionVwet
 _T06Evokly13ContentActionVwta
-__swift_memcpy28_4
 _T06Evokly13ContentActionVwca
 _T06Evokly13ContentActionVwcp
 _T06Evokly13ContentActionVwxx
@@ -5091,14 +5091,13 @@ __T0Say6Evokly20AnalyticsBeaconRangeVGWr
 __T0Say6Evokly20AnalyticsBeaconRangeVGWs
 __T0s22SetIndexRepresentationOWy
 __T0s22SetIndexRepresentationOWe
+___swift_memcpy16_8
 __T0SS_yptWc0_
 __T0SS_yptSgWb0_
-__T010Foundation4UUIDVSgWb0_
 __T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_VwCP
 __T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwxx
 __T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwcp
 __T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwca
-___swift_memcpy16_8
 __T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwta
 __T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwet
 __T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwst
@@ -5283,14 +5282,13 @@ _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLL
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwst
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwet
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwta
-__swift_memcpy16_8
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwca
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwcp
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_Vwxx
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_VwCP
-_T010Foundation4UUIDVSgWb0_
 _T0SS_yptSgWb0_
 _T0SS_yptWc0_
+__swift_memcpy16_8
 _T0Say6Evokly20AnalyticsBeaconRangeVGWs
 _T0Say6Evokly20AnalyticsBeaconRangeVGWr
 _T06Evokly24GeofenceTransitionMomentVSgWb0_
@@ -5509,10 +5507,10 @@ location.get
 _T0s12_ArrayBufferV5countSivs6Evokly14GeofenceRegionC_Tg5
 _T0Sa034_makeUniqueAndReserveCapacityIfNotB0yyF6Evokly14GeofenceRegionC_Tg5
 hasLocation.get
-_T0SayxGs10CollectionssABP8endIndex0C0QzvgTW6Evokly14GeofenceRegionC_Tg5
-_T0Sa8endIndexSivg6Evokly14GeofenceRegionC_Tg5
 _T0SayxGs10CollectionssABP7ElementQz5IndexQzcigTW6Evokly11BeaconGroupV_Tg5
 _T0Sa11_getElementxSi_Sb20wasNativeTypeCheckeds16_DependenceTokenV22matchingSubscriptChecktF6Evokly11BeaconGroupV_Tg5
+_T0SayxGs10CollectionssABP8endIndex0C0QzvgTW6Evokly14GeofenceRegionC_Tg5
+_T0Sa8endIndexSivg6Evokly14GeofenceRegionC_Tg5
 _T0Sa9_getCountSiyF6Evokly11BeaconGroupV_Tg5
 getAllBeaconGroups
 _T0s17_VariantSetBufferO019migrateDataToNativeC0ys06_CocoabC0VFSo14CLBeaconRegionC_Tg5Tf4gn_n
@@ -5530,8 +5528,8 @@ _T0s12_ArrayBufferV20isUniquelyReferencedSbyF6Evokly14GeofenceRegionC_Tg5
 _T0s12_ArrayBufferVyxGs01_aB8ProtocolssADP5countSivgTW6Evokly14GeofenceRegionC_Tg5
 _T0s12_ArrayBufferV5countSivg6Evokly14GeofenceRegionC_Tg5
 _T0s12_ArrayBufferV13_copyContentsSpyxGs5RangeVySiG03subE0_AD12initializingtF6Evokly14GeofenceRegionC_Tg5Tf4xnn_n
-_T0s10CollectionPsE20_failEarlyRangeChecky5IndexQz_s0D0VyAEG6boundstFs09CountableD0VySiG_Tgq5
 _T0s12_ArrayBufferV10_typeCheckys5RangeVySiGF6Evokly14GeofenceRegionC_Tg5
+_T0s10CollectionPsE20_failEarlyRangeChecky5IndexQz_s0D0VyAEG6boundstFs09CountableD0VySiG_Tgq5
 _T0Sp10initializeySPyxG4from_Si5counttF6Evokly14GeofenceRegionC_Tg5
 _T0s12_ArrayBufferV21needsElementTypeCheckSbvg6Evokly14GeofenceRegionC_Tg5
 getRegions
@@ -5654,14 +5652,13 @@ sort
 _T0SayxGs17MutableCollectionssABP011_withUnsafeA24BufferPointerIfSupportedqd__Sgqd__Sry7ElementQzGzKcKlFTW6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0Q12WithDistanceL_V_ytTg5
 _T0Sa42_withUnsafeMutableBufferPointerIfSupportedqd__Sgqd__SryxGzKcKlF6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0O12WithDistanceL_V_ytTg5
 _T0Sa30withUnsafeMutableBufferPointerqd__qd__SryxGzKcKlF6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0M12WithDistanceL_V_ytTg5
-_T0Sa42_withUnsafeMutableBufferPointerIfSupportedqd__Sgqd__SryxGzKcKlFqd__ACzKcfU_6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0O12WithDistanceL_V_ytTg5
-_T0Sry7Elements8SequencePQzGs5Error_pIglzo_AEytsAF_pIglrzo_s17MutableCollectionRzs012RandomAccessE0RzlTRSay6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0O12WithDistanceL_VG_Tg5
-_T0s17MutableCollectionPss012RandomAccessB0RzrlE4sortySb7Elements8SequencePQz_AHtKc2by_tKFySryAHGzKcfU_Say6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0P12WithDistanceL_VG_Tg5
 _T0Sa30withUnsafeMutableBufferPointerqd__qd__SryxGzKcKlF6$deferL_yyr__lF6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0N12WithDistanceL_V_ytTg5
 _T0Sr5countSivg6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0I12WithDistanceL_V_Tg5
 _T0SpyxGs9EquatablessABP2eeoiSbx_xtFZTW6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0J12WithDistanceL_V_Tg5
+_T0Sa42_withUnsafeMutableBufferPointerIfSupportedqd__Sgqd__SryxGzKcKlFqd__ACzKcfU_6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0O12WithDistanceL_V_ytTg5
+_T0Sry7Elements8SequencePQzGs5Error_pIglzo_AEytsAF_pIglrzo_s17MutableCollectionRzs012RandomAccessE0RzlTRSay6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0O12WithDistanceL_VG_Tg5
+_T0s17MutableCollectionPss012RandomAccessB0RzrlE4sortySb7Elements8SequencePQz_AHtKc2by_tKFySryAHGzKcfU_Say6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0P12WithDistanceL_VG_Tg5
 _T0s10_introSortyxz_s5RangeVy5Indexs10CollectionPQzG03subC0Sb7Elements8SequencePQz_AMtKc2bytKs07MutableE0Rzs012RandomAccessE0RzlFSry6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0T12WithDistanceL_VG_Tg5
-_T0s10_introSortyxz_s5RangeVy5Indexs10CollectionPQzG03subC0Sb7Elements8SequencePQz_AMtKc2bytKs07MutableE0Rzs012RandomAccessE0RzlFSry6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0T12WithDistanceL_VG_Tg5Tf4nxg_n
 _T0Sr8endIndexSivg6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0J12WithDistanceL_V_Tg5
 _T0S2ryxGSpyxGSg5start_Si5counttcfC6Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0J12WithDistanceL_V_Tg5
 _T06Evokly13BeaconManagerC20pickClosestGeofencesSaySo16CLCircularRegionCGSo10CLLocationC15currentLocation_tF0H12WithDistanceL_VALSbs5Error_pIgxxdzo_A2LSbsAM_pIgiidzo_TR012_T06Evokly13bc7C20pickef7SaySo16gh6CGSo10i10C15currentk18_tFSbAcdgiJ_tF0H12lM11L_V_ALtcfU_Tf3nnpf_n
@@ -5726,7 +5723,7 @@ __T06Evokly6BeaconVwCP
 __T06Evokly6BeaconVwxx
 __T06Evokly6BeaconVwcp
 __T06Evokly6BeaconVwca
-___swift_memcpy56_4
+___swift_memcpy104_8
 __T06Evokly6BeaconVwta
 __T06Evokly6BeaconVwet
 __T06Evokly6BeaconVwst
@@ -5799,7 +5796,7 @@ get_field_types_Beacon
 _T06Evokly6BeaconVwst
 _T06Evokly6BeaconVwet
 _T06Evokly6BeaconVwta
-__swift_memcpy56_4
+__swift_memcpy104_8
 _T06Evokly6BeaconVwca
 _T06Evokly6BeaconVwcp
 _T06Evokly6BeaconVwxx
@@ -5817,7 +5814,6 @@ __T0s23_NativeDictionaryBufferVAByxq_GSi8capacity_s04_RawaB7StorageC7storagetcfC
 __T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_10Foundation4DateVTg5Tf4xnn_n
 __T0s24_VariantDictionaryBufferO17nativeUpdateValueq_Sgq__x6forKeytFSS_10Foundation4DateVTg5Tf4nxn_n
 __T06Evokly12TriggerCacheCMa
-__T0SqWy.17
 __T0SqWe.18
 __T06Evokly12TriggerCacheC10updateTimeySSFZyycfU_TA
 __T06Evokly12TriggerCacheC10updateTimeySSFZyycfU_TA.28
@@ -5886,9 +5882,9 @@ validateGeofence
 _T0s24_VariantDictionaryBufferO17nativeUpdateValueq_Sgq__x6forKeytFSS_10Foundation4DateVTg5Tf4nxn_n
 _T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_10Foundation4DateVTg5Tf4xnn_n
 _T0s24_VariantDictionaryBufferO018ensureUniqueNativeC0Sb11reallocated_Sb15capacityChangedtSiFSS_10Foundation4DateVTg5
-_T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_10Foundation4DateVTg5
 _T0s26_forceBridgeFromObjectiveCxyXl_xmtlF10Foundation4DateV_Tg5
 _T0s26_forceBridgeFromObjectiveCxyXl_xmtlFSS_Tg5
+_T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_10Foundation4DateVTg5
 _T0s23_NativeDictionaryBufferVAByxq_GSi8capacity_s04_RawaB7StorageC7storagetcfCSS_10Foundation4DateVTg5
 _T0s37_HashableTypedNativeDictionaryStorageCySS10Foundation4DateVGMa
 _T06Evokly16TriggerActivatorCMa
@@ -6102,7 +6098,6 @@ __T06Evokly6ActionV13SwiftProtobuf26_MessageImplementationBaseAadEP29_protobuf_g
 __T06Evokly6ActionV13SwiftProtobuf19_ProtoNameProvidingAadEP17_protobuf_nameMapAD01_fJ0VvgZTW
 __T06Evokly6ActionVs28CustomDebugStringConvertibleAAsADP16debugDescriptionSSvgTW
 __T06Evokly6ActionVs9EquatableAAsADP2eeoiSbx_xtFZTW
-__T06Evokly6ActionV06OneOf_B4TypeO2eeoiSbAE_AEtFZTf4ggd_n
 __T06Evokly6ActionV13_StorageClass33_83CFF25B607531DF475B95EB4BB104FALLCA2F7copying_tcfcTf4gn_n
 __T06Evokly6ActionV8traverseyxz7visitor_tK13SwiftProtobuf7VisitorRzlFTf4nx_n
 __T06Evokly6ActionVwxx
@@ -6145,6 +6140,7 @@ __T06Evokly6ActionV17_protobuf_nameMap13SwiftProtobuf05_NameE0VvpZ
 __T06Evokly6ActionV13_StorageClass33_83CFF25B607531DF475B95EB4BB104FALLC15defaultInstanceAFvpZ
 __T06Evokly13WebhookActionVN
 __T06Evokly13WebhookActionV13SwiftProtobuf7MessageAAWP
+__T06Evokly11VideoActionVN
 __T06Evokly11VideoActionV13SwiftProtobuf7MessageAAWP
 __T06Evokly35_GeneratedWithProtocGenSwiftVersion33_83CFF25B607531DF475B95EB4BB104FALLV2_2VMF
 __T06Evokly35_GeneratedWithProtocGenSwiftVersion33_83CFF25B607531DF475B95EB4BB104FALLVMF
@@ -6168,6 +6164,7 @@ __T06Evokly6ActionV13SwiftProtobuf19_ProtoNameProvidingAAWP
 __T06Evokly6ActionV13SwiftProtobuf26_MessageImplementationBaseAAWP
 __T06Evokly6ActionV13SwiftProtobuf7MessageAAWP
 __T06Evokly13WebhookActionV13SwiftProtobuf26_MessageImplementationBaseAAWP
+__T06Evokly11VideoActionV13SwiftProtobuf26_MessageImplementationBaseAAWP
 __T06Evokly6ActionV06OneOf_B4TypeOWV
 __T06Evokly6ActionV06OneOf_B4TypeOMn
 __T06Evokly6ActionV06OneOf_B4TypeOMf
@@ -6189,8 +6186,6 @@ ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/ac
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV13unknownFields13SwiftProtobuf14UnknownStorageVvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV17_protobuf_nameMap13SwiftProtobuf05_NameE0VvgZ
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV17_protobuf_nameMap13SwiftProtobuf05_NameE0VvgZ
-___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV06OneOf_B4TypeO2eeoiSbAE_AEtFZ
-___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV06OneOf_B4TypeO2eeoiSbAE_AEtFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV29_protobuf_generated_isEqualToSbAC5other_tF
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV29_protobuf_generated_isEqualToSbAC5other_tF
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/action/action.pb.swift:_T06Evokly6ActionV14_uniqueStorage33_83CFF25B607531DF475B95EB4BB104FALLAC01_D5ClassAELLCyF
@@ -6306,7 +6301,7 @@ __T06Evokly11ApplicationVwCP
 __T06Evokly11ApplicationVwxx
 __T06Evokly11ApplicationVwcp
 __T06Evokly11ApplicationVwca
-___swift_memcpy36_4
+___swift_memcpy72_8
 __T06Evokly11ApplicationVwta
 __T06Evokly11ApplicationVwet
 __T06Evokly11ApplicationVwst
@@ -6373,7 +6368,7 @@ get_field_types_Application
 _T06Evokly11ApplicationVwst
 _T06Evokly11ApplicationVwet
 _T06Evokly11ApplicationVwta
-__swift_memcpy36_4
+__swift_memcpy72_8
 _T06Evokly11ApplicationVwca
 _T06Evokly11ApplicationVwcp
 _T06Evokly11ApplicationVwxx
@@ -6801,7 +6796,6 @@ __T06Evokly7NetworkC15updateEndpoints33_23861DB921EF2291780D3279A92F0B9FLLyySbcS
 __T06Evokly7NetworkCMa
 __T06Evokly9AnalyticsCMa
 __T06Evokly16EndpointsRequestCMa
-__T0SqWe.10
 __T06Evokly7NetworkCMm
 __T06Evokly7NetworkC9apiConfigSQyAA7APIConfVGvpWvd
 __T06Evokly7NetworkC5queueSo14OperationQueueCvpWvd
@@ -6844,6 +6838,7 @@ get_field_types_Network
 _T0So14OperationQueueCMa
 _T0SQy6Evokly7APIConfVGMa
 _T06Evokly7NetworkC15updateEndpoints33_23861DB921EF2291780D3279A92F0B9FLLyySbcSgFy10Foundation4DataVSgcfU_Tf4gnn_n
+_T0Sa9_getCountSiyF6Evokly8EndpointV_Tg5
 mqttEndpoint.set
 getAnalytics
 getEndpointsFromData
@@ -7008,7 +7003,7 @@ __T06Evokly12HttpEndpointV3UriV8KeysTypeOMa
 __T06Evokly12HttpEndpointV3UriVwxx
 __T06Evokly12HttpEndpointV3UriVwcp
 __T06Evokly12HttpEndpointV3UriVwca
-___swift_memcpy104_4
+___swift_memcpy208_8
 __T06Evokly12HttpEndpointV3UriVwta
 __T06Evokly12HttpEndpointV3UriVMa
 __T06Evokly12HttpEndpointV3UriVs9EquatableAAWa
@@ -7055,8 +7050,8 @@ __T06Evokly12HttpEndpointV13OneOf_URLKindOs9EquatableAAWa
 __T06Evokly12HttpEndpointV3UriV8KeysTypeOwet
 __T06Evokly12HttpEndpointV3UriVwet
 __T06Evokly12HttpEndpointV3UriV8KeysTypeOwug
-__T06Evokly12HttpEndpointV3UriVwst
 __T06Evokly12HttpEndpointV3UriV8KeysTypeOwst
+__T06Evokly12HttpEndpointV3UriVwst
 __T06Evokly12HttpEndpointVs8HashableAAsADP9hashValueSivgTW
 __T06Evokly12HttpEndpointV3UriVs8HashableAAsAFP9hashValueSivgTW
 __T06Evokly12HttpEndpointVwCP
@@ -7230,7 +7225,7 @@ _T06Evokly12HttpEndpointV3UriVs9EquatableAAWa
 _T06Evokly12HttpEndpointV3UriVMa
 get_field_types_Uri
 _T06Evokly12HttpEndpointV3UriVwta
-__swift_memcpy104_4
+__swift_memcpy208_8
 _T06Evokly12HttpEndpointV3UriVwca
 _T06Evokly12HttpEndpointV3UriVwcp
 _T06Evokly12HttpEndpointV3UriVwxx
@@ -7288,7 +7283,6 @@ __T0s10DictionaryVAByxq_GSi15minimumCapacity_tcfCs11AnyHashableV_ypTg5Tf4nd_n
 __T0s17_dictionaryUpCasts10DictionaryVyq0_q1_GACyxq_Gs8HashableRzsAFR0_r2_lFSS_SSs03AnyE0VypTg5Tf4g_n
 __T0s23_NativeDictionaryBufferVss8HashableRzrlE9fromArrayAByxq_GSayx_q_tGFZSS_SSTg5Tf4gd_n
 __T06Evokly16EndpointsRequestC5startyyFy10Foundation4DataVSg_So11URLResponseCSgs5Error_pSgtcfU_TA
-__T06Evokly16EndpointsRequestCACycfcTf4d_n
 __T0s32DictionaryIteratorRepresentationOWe
 __T0SS3key_SS5valuetSgWb0_
 _block_destroy_helper.4
@@ -7505,7 +7499,6 @@ decodeBase64
 _T0s5Int32Vs10ComparablessACP1loiSbx_xtFZTW
 _T0s5Int32Vs13BinaryIntegerssACPxqd__18truncatingIfNeeded_tcsACRd__lufCTWs6UInt16V_Tg5
 _T0s17FixedWidthIntegerPsExqd__18truncatingIfNeeded_tcs06BinaryC0Rd__lufCqd__s5Int32VXMTA2FRszsADRd__r__lIetMiyd_Tpq5s6UInt16V_Tg5
-_T0s6UInt16Vs13BinaryIntegerssACP8_lowWordSuvgTW
 _T0s6UInt16Vs13BinaryIntegerssACPxqd__18truncatingIfNeeded_tcsACRd__lufCTWs5Int32V_Tg5
 _T0s17FixedWidthIntegerPsExqd__18truncatingIfNeeded_tcs06BinaryC0Rd__lufCqd__s6UInt16VXMTA2FRszsADRd__r__lIetMiyd_Tpq5s5Int32V_Tg5
 _T0s5Int32Vs10ComparablessACP2geoiSbx_xtFZTW
@@ -7574,7 +7567,7 @@ __T06Evokly11GeoLocationVwCP
 __T06Evokly11GeoLocationVwxx
 __T06Evokly11GeoLocationVwcp
 __T06Evokly11GeoLocationVwca
-___swift_memcpy32_8
+___swift_memcpy48_8
 __T06Evokly11GeoLocationVwta
 __T06Evokly11GeoLocationVwet
 __T06Evokly11GeoLocationVwst
@@ -7644,7 +7637,7 @@ get_field_types_GeoLocation
 _T06Evokly11GeoLocationVwst
 _T06Evokly11GeoLocationVwet
 _T06Evokly11GeoLocationVwta
-__swift_memcpy32_8
+__swift_memcpy48_8
 _T06Evokly11GeoLocationVwca
 _T06Evokly11GeoLocationVwcp
 _T06Evokly11GeoLocationVwxx
@@ -7660,6 +7653,7 @@ __T06Evokly9EndpointsV9getConfigAA12HttpEndpointVSgyFTf4x_n
 __T06Evokly9EndpointsV7getBaseAA12HttpEndpointVSgyFTf4x_n
 __T06Evokly8EndpointV06OneOf_B4KindOWy
 __T06Evokly8EndpointV06OneOf_B4KindOWe
+__T0SqWe.12
 __T06Evokly8EndpointVN
 __T0s23_ContiguousArrayStorageCy6Evokly8EndpointVGML
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Endpoints+Getters.swift:_T06Evokly9EndpointsV9getConfigAA12HttpEndpointVSgyF
@@ -7672,10 +7666,14 @@ ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Endpoints+Gette
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Endpoints+Getters.swift:_T06Evokly9EndpointsV13getCloudinaryAA12HttpEndpointVSgyF
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Endpoints+Getters.swift:_T06Evokly9EndpointsV12getAnalyticsAA12MqttEndpointVSgyF
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Endpoints+Getters.swift:_T06Evokly9EndpointsV12getAnalyticsAA12MqttEndpointVSgyF
-___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV6configAA04HttpB0Vvg
-___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV6configAA04HttpB0Vvg
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV12endpointKindAC06OneOf_bD0OSgvg
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV12endpointKindAC06OneOf_bD0OSgvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV13_StorageClass33_E9598E8AD532077CEF80B999C2006113LLC13_endpointKindAC06OneOf_bL0OSgvg
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV13_StorageClass33_E9598E8AD532077CEF80B999C2006113LLC13_endpointKindAC06OneOf_bL0OSgvg
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV6configAA04HttpB0Vvg
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV6configAA04HttpB0Vvg
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV06OneOf_B4KindO2eeoiSbAE_AEtFZ
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV06OneOf_B4KindO2eeoiSbAE_AEtFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV4baseAA04HttpB0Vvg
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV4baseAA04HttpB0Vvg
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/endpoints/config/endpoints/http.pb.swift:_T06Evokly12HttpEndpointV3uriAC3UriVvg
@@ -7700,13 +7698,13 @@ _T0s15ContiguousArrayV034_makeUniqueAndReserveCapacityIfNotD0yyF6Evokly8Endpoint
 _T0s22_ContiguousArrayBufferV5countSivg6Evokly8EndpointV_Tg5
 _T06Evokly8EndpointVSbs5Error_pIgxdzo_ACSbsAD_pIgidzo_TR
 _T06Evokly9EndpointsV12getAnalyticsAA12MqttEndpointVSgyFSbAA0F0VcfU_
+endpointKind.get
 _T0SayxGs10CollectionssABP8endIndex0C0QzvgTW6Evokly8EndpointV_Tg5
 _T0Sa8endIndexSivg6Evokly8EndpointV_Tg5
-_T0Sa9_getCountSiyF6Evokly8EndpointV_Tg5
 cloudinary.get
 _T06Evokly9EndpointsV13getCloudinaryAA12HttpEndpointVSgyFSbAA0F0VcfU_
-_T0SS14_CharacterViewVs10CollectionssACP8distanceSi5IndexQz4from_AG2totFTW
 _T0SS14_CharacterViewVs10CollectionssACP8endIndex0E0QzvgTW
+_T0SS14_CharacterViewVs10CollectionssACP8distanceSi5IndexQz4from_AG2totFTW
 _bridgeAnyObjectToAny
 getBase
 getConfig
@@ -7797,7 +7795,6 @@ __T06Evokly5EventV06OneOf_B4TypeOwCP
 __T06Evokly5EventV06OneOf_B4TypeOwxx
 __T06Evokly5EventV06OneOf_B4TypeOwcp
 __T06Evokly5EventV06OneOf_B4TypeOwca
-___swift_memcpy60_4
 __T06Evokly5EventV06OneOf_B4TypeOwta
 __T06Evokly5EventV06OneOf_B4TypeOwet
 __T06Evokly5EventV06OneOf_B4TypeOwst
@@ -7892,7 +7889,6 @@ _T06Evokly5EventV06OneOf_B4TypeOwug
 _T06Evokly5EventV06OneOf_B4TypeOwst
 _T06Evokly5EventV06OneOf_B4TypeOwet
 _T06Evokly5EventV06OneOf_B4TypeOwta
-__swift_memcpy60_4
 _T06Evokly5EventV06OneOf_B4TypeOwca
 _T06Evokly5EventV06OneOf_B4TypeOwcp
 _T06Evokly5EventV06OneOf_B4TypeOwxx
@@ -8176,7 +8172,7 @@ __T06Evokly7APIConfVwCP
 __T06Evokly7APIConfVwxx
 __T06Evokly7APIConfVwcp
 __T06Evokly7APIConfVwca
-___swift_memcpy48_4
+___swift_memcpy96_8
 __T06Evokly7APIConfVwta
 __T06Evokly7APIConfVwet
 __T06Evokly7APIConfVwst
@@ -8192,7 +8188,7 @@ get_field_types_APIConf
 _T06Evokly7APIConfVwst
 _T06Evokly7APIConfVwet
 _T06Evokly7APIConfVwta
-__swift_memcpy48_4
+__swift_memcpy96_8
 _T06Evokly7APIConfVwca
 _T06Evokly7APIConfVwcp
 _T06Evokly7APIConfVwxx
@@ -8325,8 +8321,8 @@ __T06Evokly24GeofenceTransitionMomentVs8HashableAAsADP9hashValueSivgTW
 __T06Evokly24GeofenceTransitionMomentVwxx
 __T06Evokly24GeofenceTransitionMomentVwCP
 __T06Evokly18BeaconsRangeMomentVwCP
-__T06Evokly24GeofenceTransitionMomentVwta
 __T06Evokly24GeofenceTransitionMomentVwcp
+__T06Evokly24GeofenceTransitionMomentVwta
 __T06Evokly12NeighborhoodV16protoMessageNameSSvpZ
 __T06Evokly12NeighborhoodV17_protobuf_nameMap13SwiftProtobuf05_NameE0VvpZ
 __T06Evokly18BeaconsRangeMomentV16protoMessageNameSSvpZ
@@ -8605,7 +8601,7 @@ __T06Evokly8TapEventV12OneOf_OriginOwCP
 __T06Evokly8TapEventV12OneOf_OriginOwxx
 __T06Evokly8TapEventV12OneOf_OriginOwcp
 __T06Evokly8TapEventV12OneOf_OriginOwca
-___swift_memcpy13_4
+___swift_memcpy25_8
 __T06Evokly8TapEventV12OneOf_OriginOwta
 __T06Evokly8TapEventV12OneOf_OriginOwet
 __T06Evokly8TapEventV12OneOf_OriginOwst
@@ -8703,7 +8699,7 @@ _T06Evokly8TapEventV12OneOf_OriginOwug
 _T06Evokly8TapEventV12OneOf_OriginOwst
 _T06Evokly8TapEventV12OneOf_OriginOwet
 _T06Evokly8TapEventV12OneOf_OriginOwta
-__swift_memcpy13_4
+__swift_memcpy25_8
 _T06Evokly8TapEventV12OneOf_OriginOwca
 _T06Evokly8TapEventV12OneOf_OriginOwcp
 _T06Evokly8TapEventV12OneOf_OriginOwxx
@@ -8919,6 +8915,7 @@ __T06Evokly9ConditionVwCP
 __T06Evokly9ConditionVwxx
 __T06Evokly9ConditionVwcp
 __T06Evokly9ConditionVwca
+___swift_memcpy112_8
 __T06Evokly9ConditionVwta
 __T06Evokly9ConditionVwet
 __T06Evokly9ConditionVwst
@@ -9082,6 +9079,7 @@ _T0Say6Evokly9ConditionVGMa
 _T06Evokly9ConditionVwst
 _T06Evokly9ConditionVwet
 _T06Evokly9ConditionVwta
+__swift_memcpy112_8
 _T06Evokly9ConditionVwca
 _T06Evokly9ConditionVwcp
 _T06Evokly9ConditionVwxx
@@ -9649,9 +9647,9 @@ get_field_types_TextPanelCell
 TextPanelCell.swift
 _T06Evokly16TextContentPanelVSgMa
 _T06Evokly13TextPanelCellCMa
-color.get
 button.get
 size.get
+color.get
 textAlignment
 _globalinit_33_01301AFAE70871523D0AD6DB831E14D1_func111
 __T06Evokly6ConfigV16protoMessageNameSSvau
@@ -9977,7 +9975,6 @@ __T06Evokly12TriggerEventVwCP
 __T06Evokly12TriggerEventVwxx
 __T06Evokly12TriggerEventVwcp
 __T06Evokly12TriggerEventVwca
-___swift_memcpy24_4
 __T06Evokly12TriggerEventVwta
 __T06Evokly12TriggerEventVwet
 __T06Evokly12TriggerEventVwst
@@ -10043,7 +10040,6 @@ get_field_types_TriggerEvent
 _T06Evokly12TriggerEventVwst
 _T06Evokly12TriggerEventVwet
 _T06Evokly12TriggerEventVwta
-__swift_memcpy24_4
 _T06Evokly12TriggerEventVwca
 _T06Evokly12TriggerEventVwcp
 _T06Evokly12TriggerEventVwxx
@@ -10370,6 +10366,7 @@ __T0s12_ArrayBufferV19_getElementSlowPathyXlSiFSo18NSAttributedStringC_Tg5
 __T0s15ContiguousArrayV16_copyToNewBufferySi8oldCount_tFSo18NSAttributedStringC_Tg5
 __T0s20_ArrayBufferProtocolPsE025_forceCreateUniqueMutableB0s011_ContiguousaB0Vy7ElementQzGSi011countForNewB0_Si03minL8CapacitytFAEySo18NSAttributedStringCG_Tg5
 __T0s20_ArrayBufferProtocolPsE025_forceCreateUniqueMutableB4Impls011_ContiguousaB0Vy7ElementQzGSi08countForB0_Si14minNewCapacitySi08requiredO0tFAEySo18NSAttributedStringCG_Tg5
+__T0s5Int32Vs23CustomStringConvertiblessACP11descriptionSSvgTW
 __T0So8NSObjectCs9Equatable10ObjectiveCsACP2eeoiSbx_xtFZTW
 __T0Sis23CustomStringConvertiblessAAP11descriptionSSvgTW
 __T0s13_StringBufferVABSi8capacity_Si11initialSizeSi12elementWidthtcfCTf4nnnd_n
@@ -10390,7 +10387,6 @@ __T06Evokly7TriggerV4TimeV8readableSo18NSAttributedStringCyFTf4x_n
 __T06Evokly7TriggerV8readableSo18NSAttributedStringCyFTf4x_n
 __T0SS3key_yXl5valuetSgWb0_
 __T0s20_ArrayBufferProtocolPsE22_arrayOutOfPlaceUpdateys011_ContiguousaB0Vy7ElementQzGz_S2iqd__ts16_PointerFunctionRd__AFQyd__AGRSlFAEySo18NSAttributedStringCG_s07_IgnoreK0VyALGTg5Tf4nnndn_n
-__T0s5Int32Vs23CustomStringConvertiblessACP11descriptionSSvgTW
 __T0So18NSAttributedStringCML
 __T0s23_ContiguousArrayStorageCys7CVarArg_pGML
 __T0s7CVarArg_pML
@@ -10434,6 +10430,8 @@ _T0s10CollectionPsE9formIndexy0C0Qzz5after_tFs14CountableRangeVySiG_Tg5
 _T0s14CountableRangeVyxGs10CollectionssADP5index5IndexQzAH5after_tFTWSi_Tg5
 _T0s14CountableRangeV5indexxx5after_tFSi_Tg5
 _T0Sis10StrideablessAAP8advancedx6StrideQz2by_tFTW
+_T0s5Int32Vs13BinaryIntegerssACPxqd__18truncatingIfNeeded_tcsACRd__lufCTWSi_Tg5
+_T0s17FixedWidthIntegerPsExqd__18truncatingIfNeeded_tcs06BinaryC0Rd__lufCqd__s5Int32VXMTA2FRszsADRd__r__lIetMiyd_Tpq5Si_Tg5
 _T0s23_ContiguousArrayStorageCfDSS_Tg5
 _T0So7UIColorCMa
 _T0Sa13_adoptStorageSayxG_SpyxGts016_ContiguousArrayB0CyxG_Si5counttFZs7CVarArg_p_Tg5
@@ -10618,8 +10616,8 @@ __T06Evokly13ConfigRequestC6cancelyyFTo
 __T06Evokly13ConfigRequestCACycfcTo
 __T06Evokly13ConfigRequestCfD
 __T06Evokly13ConfigRequestCfETo
+__T0Sqss9EquatableRzlE2eeoiSbxSg_ACtFZSS_Tg5Tf4ggd_n
 __T06Evokly13ConfigRequestC5startyyFy10Foundation4DataVSg_So11URLResponseCSgs5Error_pSgtcfU_TA
-__T06Evokly13ConfigRequestCACycfcTf4d_n
 __T06Evokly7APIConfVWr
 __T06Evokly7APIConfVWs
 _block_destroy_helper.6
@@ -10658,6 +10656,8 @@ get_field_types_ConfigRequest
 _T06Evokly13ConfigRequestC5startyyFy10Foundation4DataVSg_So11URLResponseCSgs5Error_pSgtcfU_TA
 _T06Evokly13ConfigRequestCMa
 _T0s25_unimplementedInitializers5NeverOs12StaticStringV9className_AE04initG0AE4fileSu4lineSu6columntFySRys5UInt8VGcfU0_yAMcfU_Tf4xx_n
+_T0SR5countSivgs5UInt8V_Tgq5
+_T0SR5countSivgs5UInt8V_Tgq5Tf4x_n
 _T06Evokly13ConfigRequestC5startyyFy10Foundation4DataVSg_So11URLResponseCSgs5Error_pSgtcfU_
 _T06Evokly13ConfigRequestC5startyyFy10Foundation4DataVSg_So11URLResponseCSgs5Error_pSgtcfU_Tf4gddn_n
 _T06Evokly13ConfigRequestC6markerSSSgvgTo
@@ -10665,6 +10665,7 @@ marker.get
 _T06Evokly13ConfigRequestC10completiony10Foundation4DataVSgcvgTo
 __T06Evokly9ConditionV5checkSbs5Int32V8currZone_AF04prevF0tSgF
 __T0s15ContiguousArrayV15reserveCapacityySiFSb_Tg5
+__T0s5Int32Vs13BinaryIntegerssACP8_lowWordSuvgTW
 __T0s5Int32Vs10ComparablessACP1loiSbx_xtFZTW
 __T0s15ContiguousArrayV16_copyToNewBufferySi8oldCount_tFSb_Tg5
 __T0s20_ArrayBufferProtocolPsE025_forceCreateUniqueMutableB0s011_ContiguousaB0Vy7ElementQzGSi011countForNewB0_Si03minL8CapacitytFAEySbG_Tg5
@@ -10708,7 +10709,6 @@ _T0Sa8endIndexSivgSb_Tg5
 _T0Sa9_getCountSiyFSb_Tg5
 _T06Evokly9ConditionV16validateGeofenceSbSS2id_AA0D10TransitionO14transitionTypetFSbyKXKfu0_SbACcfU_
 checkTransitionType
-_T0SS5IndexVABSi13encodedOffset_tcfCTf4nd_n
 _T0s20_ArrayBufferProtocolPsE22_arrayOutOfPlaceUpdateys011_ContiguousaB0Vy7ElementQzGz_S2iqd__ts16_PointerFunctionRd__AFQyd__AGRSlFAEySbG_s07_IgnoreK0VySbGTg5Tf4nnndn_n
 _T0s22_ContiguousArrayBufferVyxGs01_bC8ProtocolssADP13_copyContentsSpy7ElementQzGs5RangeVySiG03subH0_AI12initializingtFTWSb_Tg5
 _T0s22_ContiguousArrayBufferV13_copyContentsSpyxGs5RangeVySiG03subF0_AD12initializingtFSb_Tg5
@@ -10723,13 +10723,8 @@ _T0s22_ContiguousArrayBufferV027requestUniqueMutableBackingC0AByxGSgSi15minimumC
 _T0s22_ContiguousArrayBufferVyxGs01_bC8ProtocolssADP5countSivgTWSb_Tg5
 _T06Evokly6BeaconVWr
 _T0s23BidirectionalCollectionPsE8distanceSi5IndexQz4from_AE2totFSS14_CharacterViewV_Tgq5Tf4xxn_n
-_T0s11_StringCoreV10startASCIISpys5UInt8VGvg
-_T0s11_StringCoreV10startASCIISpys5UInt8VGvgTf4x_n
 _T0SrxSicigs5UInt8V_Tgq5
-_T0SrxSicigs5UInt8V_Tgq5Tf4nx_n
 _T0SS14_CharacterViewV39_internalExtraCheckGraphemeBreakBetweenSbs6UInt16V_AEtFZ
-_T0s15UnsignedIntegerPss010FixedWidthB0RzrlExqd__cs06BinaryB0Rd__lufCs6UInt16V_s5UInt8VTgq5
-_T0s11_StringCoreV8_pointerSvSi11toElementAt_tFTf4nx_n
 _T0SS14_CharacterViewV39_internalExtraCheckGraphemeBreakBetweenSbs6UInt16V_AEtFZTf4nnd_n
 _T0SS14_CharacterViewV39_internalExtraCheckGraphemeBreakBetweenSbs6UInt16V_AEtFZ03hasG10WhenPairedL_SbAEF
 _T0SSs10CollectionssAAP10startIndex0C0QzvgTW
@@ -10740,8 +10735,11 @@ _T0s22_ContiguousArrayBufferV8capacitySivgSb_Tg5
 _T0s20_ArrayBufferProtocolPsE025_forceCreateUniqueMutableB0s011_ContiguousaB0Vy7ElementQzGSi011countForNewB0_Si03minL8CapacitytFAEySbG_Tg5
 _T0s15ContiguousArrayV16_copyToNewBufferySi8oldCount_tFSb_Tg5
 _T0s20_ArrayBufferProtocolPsE22_arrayOutOfPlaceUpdateys011_ContiguousaB0Vy7ElementQzGz_S2iqd__ts16_PointerFunctionRd__AFQyd__AGRSlFAEySbG_s07_IgnoreK0VySbGTg5
+_T0s5Int32Vs13BinaryIntegerssACP8_lowWordSuvgTW
 _T0s15ContiguousArrayV15reserveCapacityySiFSb_Tg5
 check
+_T0Sis13BinaryIntegerssAAPxqd__18truncatingIfNeeded_tcsAARd__lufCTWs5Int32V_Tg5
+_T0s17FixedWidthIntegerPsExqd__18truncatingIfNeeded_tcs06BinaryC0Rd__lufCqd__SiXMTS2iRszsADRd__r__lIetMiyd_Tpq5s5Int32V_Tg5
 validate
 _T06Evokly9ConditionV8validateSbyFSbyKXKfu1_SbACcfU1_
 _T06Evokly9ConditionV8validateSbyFSbyKXKfu0_SbACcfU0_
@@ -10847,9 +10845,8 @@ __T06Evokly25VideoPlayerViewControllerCfD
 __T06Evokly25VideoPlayerViewControllerCfETo
 __T06Evokly25VideoPlayerViewControllerC13viewDidAppearySbFTf4dn_n
 __T06Evokly25VideoPlayerViewControllerC16viewDidDisappearySbFTf4dn_n
-__T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFTf4ngn_n
-__T06Evokly25VideoPlayerViewControllerC22playerDidFinishPlayingySo14NSNotificationC12notification_tFTf4dn_n
 __T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFySo0kehL7Context_pcfU_TA
+__T06Evokly25VideoPlayerViewControllerC22playerDidFinishPlayingySo14NSNotificationC12notification_tFTf4dn_n
 __T06Evokly25VideoPlayerViewControllerC16videoHasFinishedSbvpWvd
 __T0So12AVPlayerItemCML
 _OBJC_METACLASS_$__TtC6Evokly25VideoPlayerViewController
@@ -10896,11 +10893,8 @@ ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/action/config/ac
 __T06Evokly25VideoPlayerViewControllerCN
 _OBJC_CLASS_$__TtC6Evokly25VideoPlayerViewController
 /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/VideoPlayerViewController.swift
-VideoPlayerViewController.swift
-_T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFySo0kehL7Context_pcfU_TA
-_T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFySo0kehL7Context_pcfU_
-_T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFySo0kehL7Context_pcfU_Tf4dn_n
 get_field_types_VideoPlayerViewController
+VideoPlayerViewController.swift
 _T06Evokly11VideoActionVSgMa
 _T0So8UIButtonCSgMa
 _T0So8UIButtonCMa
@@ -10908,16 +10902,20 @@ playerDidFinishPlaying
 onFinish.get
 videoAction.get
 videoHasFinished.set
-viewWillTransition
-_T06Evokly25VideoPlayerViewControllerCMa
+_T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFySo0kehL7Context_pcfU_TA
+_T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFySo0kehL7Context_pcfU_
+_T06Evokly25VideoPlayerViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIVieweH11Coordinator_p4withtFySo0kehL7Context_pcfU_Tf4dn_n
 viewDidDisappear
 onCancel.get
 videoHasFinished.get
 viewDidAppear
 viewMoreView.get
+_T06Evokly25VideoPlayerViewControllerCMa
 tapped
 viewMore.get
 getViewMore
+viewWillTransition
+_T0So44UIViewControllerTransitionCoordinatorContext_pIegx_SoAA_pIeyBy_TR
 setupSize
 __swift_deallocate_boxed_opaque_existential_0
 _T0So12AVPlayerItemCMa
@@ -11146,8 +11144,6 @@ ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly9EndpointsV29_protobuf_generated_isEqualToSbAC5other_tF
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly9EndpointsV17_protobuf_nameMap13SwiftProtobuf05_NameE0VvgZ
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly9EndpointsV17_protobuf_nameMap13SwiftProtobuf05_NameE0VvgZ
-___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV06OneOf_B4KindO2eeoiSbAE_AEtFZ
-___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV06OneOf_B4KindO2eeoiSbAE_AEtFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV14_uniqueStorage33_E9598E8AD532077CEF80B999C2006113LLAC01_D5ClassAELLCyF
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV14_uniqueStorage33_E9598E8AD532077CEF80B999C2006113LLAC01_D5ClassAELLCyF
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Model/config/config/endpoints.pb.swift:_T06Evokly8EndpointV29_protobuf_generated_isEqualToSbAC5other_tF
@@ -11445,7 +11441,8 @@ __T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIPxycfCTW
 __T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP05protoG4NameSSvgZTW
 __T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP13isInitializedSbvgTW
 __T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP13unknownFieldsAH14UnknownStorageVvgTW
-__T06Evokly7TriggerV4TimeV13SwiftProtobuf7MessageAafGP13unknownFieldsAF14UnknownStorageVvgTWTm
+__T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP13unknownFieldsAH14UnknownStorageVvsTW
+__T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP13unknownFieldsAH14UnknownStorageVvmTW
 __T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP06decodeG0yqd__z7decoder_tKAH7DecoderRd__lFTW
 __T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP8traverseyqd__z7visitor_tKAH7VisitorRd__lFTW
 __T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP9hashValueSivgTW
@@ -11460,12 +11457,10 @@ __T0Sqss9EquatableRzlE2neoiSbxSg_ACtFZ6Evokly9ConditionV_Tg5Tf4nnd_n
 __T06Evokly7TriggerV13_StorageClass33_943DEB3AB77588E175D2F06773956894LLCAFycfCTf4d_n
 __T06Evokly7TriggerV13_StorageClass33_943DEB3AB77588E175D2F06773956894LLCA2F7copying_tcfcTf4gn_n
 __T06Evokly7TriggerV8traverseyxz7visitor_tK13SwiftProtobuf7VisitorRzlFTf4nx_n
-__T06Evokly7TriggerV4TimeV5HoursVWs
 __T06Evokly7TriggerV4TimeV5HoursVwCP
 __T06Evokly7TriggerV4TimeV5HoursVwxx
 __T06Evokly7TriggerV4TimeV5HoursVwcp
 __T06Evokly7TriggerV4TimeV5HoursVwca
-___swift_memcpy20_4
 __T06Evokly7TriggerV4TimeV5HoursVwta
 __T06Evokly7TriggerV4TimeV5HoursVwet
 __T06Evokly7TriggerV4TimeV5HoursVwst
@@ -11474,6 +11469,8 @@ __T06Evokly7TriggerV4TimeVwxx
 __T06Evokly7TriggerV4TimeVwcp
 __T06Evokly7TriggerV4TimeVwca
 __T06Evokly7TriggerV4TimeVwta
+__T06Evokly7TriggerV4TimeVwet
+__T06Evokly7TriggerV4TimeVwst
 __T06Evokly7TriggerV4TimeVMa
 __T06Evokly7TriggerVwxx
 __T06Evokly7TriggerVwcp
@@ -11511,10 +11508,6 @@ __T06Evokly7TriggerV4TimeVSgWb0_
 __T06Evokly7TriggerV4TimeVSgWr
 __T06Evokly9ConditionVSgWb0_
 __T06Evokly9ConditionVSgWr
-__T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP13unknownFieldsAH14UnknownStorageVvsTW
-__T06Evokly7TriggerV4TimeV5HoursV13SwiftProtobuf7MessageAahIP13unknownFieldsAH14UnknownStorageVvmTW
-__T06Evokly7TriggerV4TimeVwet
-__T06Evokly7TriggerV4TimeVwst
 __T06Evokly7TriggerVs8HashableAAsADP9hashValueSivgTW
 __T06Evokly7TriggerV4TimeVs8HashableAAsAFP9hashValueSivgTW
 __T06Evokly7TriggerV4TimeV5HoursVs8HashableAAsAHP9hashValueSivgTW
@@ -11673,6 +11666,8 @@ _T06Evokly7TriggerVwxx
 _T06Evokly7TriggerV4TimeVMa
 get_field_types_Time
 _T0Say6Evokly7TriggerV4TimeV5HoursVGMa
+_T06Evokly7TriggerV4TimeVwst
+_T06Evokly7TriggerV4TimeVwet
 _T06Evokly7TriggerV4TimeVwta
 _T06Evokly7TriggerV4TimeVwca
 _T06Evokly7TriggerV4TimeVwcp
@@ -11682,14 +11677,12 @@ get_field_types_Hours
 _T06Evokly7TriggerV4TimeV5HoursVwst
 _T06Evokly7TriggerV4TimeV5HoursVwet
 _T06Evokly7TriggerV4TimeV5HoursVwta
-__swift_memcpy20_4
 _T06Evokly7TriggerV4TimeV5HoursVwca
 _T06Evokly7TriggerV4TimeV5HoursVwcp
 _T06Evokly7TriggerV4TimeV5HoursVwxx
 _T06Evokly7TriggerV4TimeV5HoursVwCP
 _T06Evokly9ConditionVSgMa
 _T06Evokly7TriggerV4TimeVSgMa
-_T06Evokly7TriggerV4TimeV5HoursVWs
 _T06Evokly7TriggerV13_StorageClass33_943DEB3AB77588E175D2F06773956894LLCs5Error_pIgxzo_AFytsAG_pIgirzo_TR
 _T06Evokly7TriggerV4TimeV5HoursV17_protobuf_nameMap13SwiftProtobuf05_NameG0Vvau
 _T06Evokly7TriggerV4TimeV5HoursV16protoMessageNameSSvau
@@ -11717,11 +11710,11 @@ __T06Evokly11BeaconCacheCfD
 __T06Evokly11BeaconCacheCMa
 __T0s18DictionaryIteratorV11_nativeNextx3key_q_5valuetSgyFSS_s5Int32V8currZone_AH04prevI0tTg5
 __T0s24_VariantDictionaryBufferO018ensureUniqueNativeC0Sb11reallocated_Sb15capacityChangedtSiFSS_s5Int32V8currZone_AG04prevL0tTg5
+__T0Sis35_ExpressibleByBuiltinIntegerLiteralssAAPxBi2048_08_builtindE0_tcfCTW
 __T0SSs8HashablessAAP9hashValueSivgTW
 __T0s10DictionaryV4keyss17LazyMapCollectionVyAByxq_GxGvgxx3key_q_5valuet_tcfU_SS_s5Int32V8currZone_AK04prevJ0tTG5
 __T0xq_xIegiir_x3key_q_5valuetxIegir_s8HashableRzr0_lTRSS_s5Int32V8currZone_AE04prevF0tTG5082_T0s10DictionaryV4keyss17LazyMapCollectionVyAByxq_GxGvgxx3key_q_5valuet_tcfU_SS_s5d6V8currF15_AK04prevJ0tTG5Tf3nnpf_n
 __T0SS10lowercasedSSyFTf4x_n
-__T06Evokly11BeaconCacheC4hashS2S_s5Int32V5majorAF5minortFZTf4gXnnd_n
 __T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_s5Int32V8currZone_AH04prevL0tTg5Tf4xnn_n
 __T0s24_VariantDictionaryBufferO17nativeUpdateValueq_Sgq__x6forKeytFSS_s5Int32V8currZone_AG04prevK0tTg5Tf4nxn_n
 __T0s23_NativeDictionaryBufferVss8HashableRzrlE9fromArrayAByxq_GSayx_q_tGFZSS_s5Int32V8currZone_AH04prevI0tTg5Tf4gd_n
@@ -11729,6 +11722,7 @@ __T06Evokly11BeaconCacheC8readData33_6136994A43681DD98A36CFD0A0E0670FLLy10Founda
 __T0SS3key_s5Int32V8currZone_AC04prevD0t5valuetSgWb0_
 __T0SS3key_s5Int32V8currZone_AC04prevD0t5valuetSgWr
 __T0SS3key_s5Int32V8currZone_AC04prevD0t5valuetSgWs
+__T0SS3key_s5Int32V8currZone_AC04prevD0t5valuetSgWrTm
 __T06Evokly11BeaconCacheC8filenameSSvpZ
 __T06Evokly11BeaconCacheCMm
 __T06Evokly11BeaconCacheCMn
@@ -11740,8 +11734,6 @@ __T0s23_ContiguousArrayStorageCySiGML
 __T0s23_ContiguousArrayStorageCys5Int32VGML
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheCfD
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheCfD
-___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC4hashS2S_s5Int32V5majorAF5minortFZ
-___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC4hashS2S_s5Int32V5majorAF5minortFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC8getStates5Int32V8currZone_AF04prevH0tSgAA0B0VFZ
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC8getStates5Int32V8currZone_AF04prevH0tSgAA0B0VFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC6update33_6136994A43681DD98A36CFD0A0E0670FLLySo8CLBeaconCFZ
@@ -11750,13 +11742,14 @@ ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swi
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC4saveyyFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC8readData33_6136994A43681DD98A36CFD0A0E0670FLLy10Foundation0E0VFZ
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC8readData33_6136994A43681DD98A36CFD0A0E0670FLLy10Foundation0E0VFZ
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC4hashS2S_s5Int32V5majorAF5minortFZ
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift:_T06Evokly11BeaconCacheC4hashS2S_s5Int32V5majorAF5minortFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/CLBeaconRegion+Equatable.swift:_T0So8CLBeaconC6EvoklyE13conditionZoneAC9ConditionV0D0OyF
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/CLBeaconRegion+Equatable.swift:_T0So8CLBeaconC6EvoklyE13conditionZoneAC9ConditionV0D0OyF
 __T06Evokly11BeaconCacheCN
 /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/BeaconCache.swift
-_T0SS3key_s5Int32V8currZone_AC04prevD0t5valuetSgWs
-BeaconCache.swift
 _T0SS3key_s5Int32V8currZone_AC04prevD0t5valuetSgWr
+BeaconCache.swift
 _T0SS3key_s5Int32V8currZone_AC04prevD0t5valuetSgWb0_
 readData
 _T0s24_VariantDictionaryBufferO17nativeUpdateValueq_Sgq__x6forKeytFSS_s5Int32V8currZone_AG04prevK0tTg5
@@ -11775,19 +11768,18 @@ _T0Sa13_adoptStorageSayxG_SpyxGts016_ContiguousArrayB0CyxG_Si5counttFZs5Int32V_T
 _T0s23_ContiguousArrayStorageCys5Int32VGMa
 _T06Evokly11BeaconCacheC8filenameSSvau
 _T0s23_ContiguousArrayStorageCySiGMa
-conditionZone
 hash
+conditionZone
+lowercased
 _T0s24_VariantDictionaryBufferO17nativeUpdateValueq_Sgq__x6forKeytFSS_s5Int32V8currZone_AG04prevK0tTg5Tf4nxn_n
 _T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_s5Int32V8currZone_AH04prevL0tTg5Tf4xnn_n
-lowercased
-_T0Sv10storeBytesyx2of_Si12toByteOffsetxm2astlFs5UInt8V_Tgq5
-_T0Sv10storeBytesyx2of_Si12toByteOffsetxm2astlFs5UInt8V_Tgq5Tf4nndn_n
 _T0xq_xIegiir_x3key_q_5valuetxIegir_s8HashableRzr0_lTRSS_s5Int32V8currZone_AE04prevF0tTG5082_T0s10DictionaryV4keyss17LazyMapCollectionVyAByxq_GxGvgxx3key_q_5valuet_tcfU_SS_s5d6V8currF15_AK04prevJ0tTG5Tf3nnpf_n
 _T0xq_xIegiir_x3key_q_5valuetxIegir_s8HashableRzr0_lTRSS_s5Int32V8currZone_AE04prevF0tTg5
 _T0s10DictionaryV4keyss17LazyMapCollectionVyAByxq_GxGvgxx3key_q_5valuet_tcfU_SS_s5Int32V8currZone_AK04prevJ0tTG5
+_T0Sis35_ExpressibleByBuiltinIntegerLiteralssAAPxBi2048_08_builtindE0_tcfCTW
 _T0s24_VariantDictionaryBufferO018ensureUniqueNativeC0Sb11reallocated_Sb15capacityChangedtSiFSS_s5Int32V8currZone_AG04prevL0tTg5
-_T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_s5Int32V8currZone_AH04prevL0tTg5
 _T0s26_forceBridgeFromObjectiveCxyXl_xmtlFs5Int32V8currZone_AC04prevG0t_Tg5
+_T0s23_NativeDictionaryBufferVss8HashableRzrlE12unsafeAddNewyx3key_q_5valuetFSS_s5Int32V8currZone_AH04prevL0tTg5
 _T0s18DictionaryIteratorV11_nativeNextx3key_q_5valuetSgyFSS_s5Int32V8currZone_AH04prevI0tTg5
 _T06Evokly11BeaconCacheCMa
 get_field_types_BeaconCache
@@ -12792,7 +12784,7 @@ __T0s20_ArrayBufferProtocolPsE20_arrayAppendSequenceyqd__s0F0Rd__7ElementQyd__AE
 __T0Sa6appendyqd__10contentsOf_t7ElementQyd__Rszs8SequenceRd__lF6Evokly12ContentPanelV_SayAHGTg5Tf4gn_n
 __T06Evokly21ContentViewControllerC16setupBackgroundsyAA0B9ContainerVFTf4gXn_n
 __T06Evokly21ContentViewControllerC17viewWillDisappearySbFTf4dd_n
-__T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFTf4ngn_n
+__T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_TA
 __T06Evokly21ContentViewControllerCACSgSo7NSCoderC5coder_tcfcTf4gn_n
 __T06Evokly21ContentViewControllerC05tableC0So07UITableC4CellCSo0fC0C_10Foundation9IndexPathV12cellForRowAttFTf4ggn_n
 __T0SqWy.19
@@ -12802,11 +12794,10 @@ __T0SqWy.31
 __T0SqWe.32
 __T06Evokly21ContentViewControllerC16setupBackgroundsyAA0B9ContainerVFyycfU0_TA
 __T06Evokly21ContentViewControllerC16setupBackgroundsyAA0B9ContainerVFyycfU_TA
-__T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_TA
 _block_destroy_helper.37
-_block_destroy_helper.49
+_block_destroy_helper.43
 _block_copy_helper.36
-_block_copy_helper.48
+_block_copy_helper.42
 __T06Evokly21ContentViewControllerC12contentImageSo7UIImageCSgvpWvd
 __T06Evokly21ContentViewControllerC020tableBackgroundImageC0So07UIImageC0CSgvpWvd
 __T06Evokly21ContentViewControllerC020tableBackgroundImageC9ContainerSo6UIViewCSgvpWvd
@@ -12839,9 +12830,9 @@ __T0SQySaySo18NSLayoutConstraintCGGML
 __T0SaySo18NSLayoutConstraintCGML
 __T0SQySo18NSLayoutConstraintCGML
 _block_descriptor.38
+_block_descriptor.44
 __T0s23_ContiguousArrayStorageCy6Evokly16ContentContainerVGML
 __T0s23_ContiguousArrayStorageCy6Evokly12ContentPanelVGML
-_block_descriptor.50
 __T0So6UIViewCMF
 __T0So18UIVisualEffectViewCMF
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentViewController.swift:_T06Evokly21ContentViewControllerC12contentImageSo7UIImageCSgvg
@@ -12947,11 +12938,8 @@ ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ImagePanelCell.
 __T06Evokly21ContentViewControllerCN
 _OBJC_CLASS_$__TtC6Evokly21ContentViewController
 /Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/ContentViewController.swift
-_T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_TA
-ContentViewController.swift
-_T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_
-_T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_Tf4dn_n
 _T06Evokly21ContentViewControllerC16setupBackgroundsyAA0B9ContainerVFyycfU_TA
+ContentViewController.swift
 _T06Evokly21ContentViewControllerC16setupBackgroundsyAA0B9ContainerVFyycfU_
 contentImage.set
 tableBackgroundImageView.get
@@ -12975,6 +12963,9 @@ panel.didset
 panels.get
 _T06Evokly21ContentViewControllerCMa
 _T0SC19NSKeyValueChangeKeyVwxs
+_T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_TA
+_T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_
+_T06Evokly21ContentViewControllerC18viewWillTransitionySC6CGSizeV2to_So06UIViewdG11Coordinator_p4withtFySo0jdgK7Context_pcfU_Tf4dn_n
 viewWillDisappear
 setupBackgrounds
 backgroundImageView.get
@@ -13025,13 +13016,12 @@ _T0s12_ArrayBufferV8endIndexSivg6Evokly12ContentPanelV_Tg5
 _T0s12_ArrayBufferVyxGs01_aB8ProtocolssADP027requestUniqueMutableBackingB0s011_ContiguousaB0Vy7ElementQzGSgSi15minimumCapacity_tFTW6Evokly12ContentPanelV_Tg5
 sorted
 _T0s15ContiguousArrayV30withUnsafeMutableBufferPointerqd__qd__SryxGzKcKlFADyts5Error_pIglrzo_AByxGytsAE_pytRsd__r__lIetMxlrzo_Tpq5
+_T0s15ContiguousArrayV30withUnsafeMutableBufferPointerqd__qd__SryxGzKcKlF6$deferL_yyr__lFADSpyxGSiAByxGAGytRsd__r__lIetbyybb_Tpq56Evokly12ContentPanelV_Tg5
+_T0SpyxGs9EquatablessABP2eeoiSbx_xtFZTW6Evokly12ContentPanelV_Tg5
 _T0s15ContiguousArrayV42_withUnsafeMutableBufferPointerIfSupportedqd__Sgqd__SryxGzKcKlFqd__AEzKcfU_A2Eyts5Error_pIglrzo_ytsAF_pytRsd__r__lIetlgrzo_Tpq56Evokly12ContentPanelV_Tg5
 _T0Sry7Elements8SequencePQzGs5Error_pIglzo_AEytsAF_pIglrzo_s17MutableCollectionRzs012RandomAccessE0RzlTRs15ContiguousArrayVy6Evokly12ContentPanelVG_Tg5
 _T0s17MutableCollectionPss012RandomAccessB0RzrlE4sortySb7Elements8SequencePQz_AHtKc2by_tKFySryAHGzKcfU_s15ContiguousArrayVy6Evokly12ContentPanelVG_Tg5
-_T0s15ContiguousArrayV30withUnsafeMutableBufferPointerqd__qd__SryxGzKcKlF6$deferL_yyr__lFADSpyxGSiAByxGAGytRsd__r__lIetbyybb_Tpq56Evokly12ContentPanelV_Tg5
-_T0SpyxGs9EquatablessABP2eeoiSbx_xtFZTW6Evokly12ContentPanelV_Tg5
 _T0s10_introSortyxz_s5RangeVy5Indexs10CollectionPQzG03subC0Sb7Elements8SequencePQz_AMtKc2bytKs07MutableE0Rzs012RandomAccessE0RzlFSry6Evokly12ContentPanelVG_Tg5
-_T0s10_introSortyxz_s5RangeVy5Indexs10CollectionPQzG03subC0Sb7Elements8SequencePQz_AMtKc2bytKs07MutableE0Rzs012RandomAccessE0RzlFSry6Evokly12ContentPanelVG_Tg5Tf4nxg_n
 _T0s14_introSortImplyxz_s5RangeVy5Indexs10CollectionPQzG03subD0Sb7Elements8SequencePQz_AMtKc2bySi10depthLimittKs07MutableF0Rzs012RandomAccessF0RzlFSry6Evokly12ContentPanelVG_Tg5
 _T0Sr8endIndexSivg6Evokly12ContentPanelV_Tg5
 _T0s15ContiguousArrayV9_getCountSiyF6Evokly12ContentPanelV_Tg5
@@ -13169,7 +13159,6 @@ _T06Evokly21ContentViewControllerC12contentImageSo7UIImageCSgvgTo
 _T06Evokly21ContentViewControllerC05tableC11SideMarginsSQySaySo18NSLayoutConstraintCGGvsTo
 tableViewSideMargins.set
 _T06Evokly21ContentViewControllerC05tableC11SideMarginsSQySaySo18NSLayoutConstraintCGGvgTo
-_T0So44UIViewControllerTransitionCoordinatorContext_pIegx_SoAA_pIeyBy_TR
 __T06Evokly13ConfigManagerC07defaultC0ACyFZ6StaticL_V14sharedInstanceACvau
 __T06Evokly13ConfigManagerCACyc33_B4CA75FEAF74A047B49985CEEEEF24FALlfc
 __T06Evokly13ConfigManagerCfD
@@ -13249,8 +13238,12 @@ objectdestroy.16
 _T06Evokly13ConfigManagerC06updateB0yyAA0B0VSgcSgFyycfU_y10Foundation4DataVSgcfU_TA
 _T06Evokly13ConfigManagerC06updateB0yyAA0B0VSgcSgFyycfU_y10Foundation4DataVSgcfU_
 __T0s23_ContiguousArrayStorageCySo10NSCalendarC4UnitVGML
+___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift:_T010Foundation4DateV6EvoklyE12getDayOfWeeks5Int32VACFZ
+___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift:_T010Foundation4DateV6EvoklyE12getDayOfWeeks5Int32VACFZ
 ___profc_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift:_T010Foundation4DateV6EvoklyE22getMinutesFromMidnights5Int32VACFZ
 ___profd_/Users/tetek/Code/clients/evokly/goldfish/Evokly/Evokly/Date+Weekday.swift:_T010Foundation4DateV6EvoklyE22getMinutesFromMidnights5Int32VACFZ
+___profc__T0So10NSCalendarC4UnitV7weekdayADvgZ
+___profd__T0So10NSCalendarC4UnitV7weekdayADvgZ
 ___profc__T0So10NSCalendarC4UnitV4hourADvgZ
 ___profd__T0So10NSCalendarC4UnitV4hourADvgZ
 ___profc__T0So10NSCalendarC4UnitV6minuteADvgZ
@@ -13577,7 +13570,6 @@ __T06Evokly19AnalyticsSensorReadVwxx
 __T06Evokly19AnalyticsSensorReadVwcp
 __T06Evokly19AnalyticsSensorReadVwca
 __T06Evokly19AnalyticsSensorReadV11OneOf_ValueOWh0_
-___swift_memcpy44_8
 __T06Evokly19AnalyticsSensorReadVwta
 __T06Evokly19AnalyticsSensorReadVwet
 __T06Evokly19AnalyticsSensorReadVwst
@@ -13625,7 +13617,6 @@ __T06Evokly15AnalyticsSensorVWs
 __T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwxx
 __T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwcp
 __T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwca
-___swift_memcpy13_8
 __T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwta
 __T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwet
 __T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwst
@@ -13713,7 +13704,6 @@ _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwug
 _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwst
 _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwet
 _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwta
-__swift_memcpy13_8
 _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwca
 _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwcp
 _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOwxx
@@ -13756,7 +13746,6 @@ _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOSgMa
 _T06Evokly19AnalyticsSensorReadVwst
 _T06Evokly19AnalyticsSensorReadVwet
 _T06Evokly19AnalyticsSensorReadVwta
-__swift_memcpy44_8
 _T06Evokly19AnalyticsSensorReadV11OneOf_ValueOWh0_
 _T06Evokly19AnalyticsSensorReadVwca
 _T06Evokly19AnalyticsSensorReadVwcp
@@ -13771,29 +13760,7 @@ globalinit_33_2C8BB09134B926477FAA93CC2321A623_func163
 globalinit_33_2C8BB09134B926477FAA93CC2321A623_func162
 /Users/tetek/Library/Developer/Xcode/DerivedData/Evokly-cibbroxqwgendlbdauxonpsirshm/Build/Intermediates.noindex/Evokly.build/Release-iphoneos/Evokly.build/DerivedSources/Evokly_vers.c
 __ZL15__ARCLite__loadv
-__ZL30add_image_hook_autoreleasepoolPK11mach_headerl
-__ZL34__arclite_objc_autoreleasePoolPushv
-__ZL33__arclite_objc_autoreleasePoolPopPv
-__ZL19patch_lazy_pointersPK11mach_headerP7patch_tm
-__ZL42__arclite_NSArray_objectAtIndexedSubscriptP7NSArrayP13objc_selectorj
-__ZL53__arclite_NSMutableArray_setObject_atIndexedSubscriptP14NSMutableArrayP13objc_selectorP11objc_objectj
-__ZL46__arclite_NSDictionary_objectForKeyedSubscriptP12NSDictionaryP13objc_selectorP11objc_object
-__ZL47__arclite_NSOrderedSet_objectAtIndexedSubscriptP12NSOrderedSetP13objc_selectorj
-__ZL58__arclite_NSMutableOrderedSet_setObject_atIndexedSubscriptP19NSMutableOrderedSetP13objc_selectorP11objc_objectj
 __ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
-__ZL18add_image_hook_ARCPK11mach_headerl
-__ZL36__arclite_object_setInstanceVariableP11objc_objectPKcPv
-__ZL24__arclite_object_setIvarP11objc_objectP9objc_ivarS0_
-__ZL21__arclite_object_copyP11objc_objectm
-__ZL21__arclite_objc_retainP11objc_object
-__ZL26__arclite_objc_retainBlockP11objc_object
-__ZL22__arclite_objc_releaseP11objc_object
-__ZL26__arclite_objc_autoreleaseP11objc_object
-__ZL32__arclite_objc_retainAutoreleaseP11objc_object
-__ZL37__arclite_objc_autoreleaseReturnValueP11objc_object
-__ZL43__arclite_objc_retainAutoreleaseReturnValueP11objc_object
-__ZL44__arclite_objc_retainAutoreleasedReturnValueP11objc_object
-__ZL26__arclite_objc_storeStrongPP11objc_objectS0_
 __ZL22add_image_hook_swiftV1PK11mach_headerl
 __ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
 __ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
@@ -13836,17 +13803,9 @@ __ZL11_class_name
 __ZL32OBJC_$_CLASS_METHODS___ARCLite__
 __ZL17_load_method_name
 __ZL17_load_method_type
-__ZL23NSAutoreleasePool_class
-__ZZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
-__ZGVZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
-l_OBJC_PROTOCOL_$___ARCLiteIndexedSubscripting__
-l_OBJC_LABEL_PROTOCOL_$___ARCLiteIndexedSubscripting__
-l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteIndexedSubscripting__
 l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
 l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
 l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
-__ZZL18add_image_hook_ARCPK11mach_headerlE7patches
-__ZGVZL18add_image_hook_ARCPK11mach_headerlE7patches
 __ZL30NSUndoManagerProxy_targetClass
 __ZL29original_NSManagedObject_init
 __ZL40original_NSManagedObject_allocWithEntity
@@ -13874,7 +13833,7 @@ __ZL25original_protocol_getName
 __ZL36original_objc_copyClassNamesForImage
 __ZL12demangleLock
 __ZL9Demangled
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -fno-sanitize=vptr -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -D OBJC_OLD_DISPATCH_PROTOTYPES=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -fembed-bitcode=all -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-67/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.o -mlinker-version=351.8 -march=armv7a
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -fno-sanitize=vptr -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -D OBJC_OLD_DISPATCH_PROTOTYPES=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -fembed-bitcode=all -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/arm64 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-67/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.o -mlinker-version=351.8
 /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-67/source/arclite.mm
 /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-67
 fixStringForCoreData
@@ -13924,6 +13883,7 @@ __arclite_NSManagedObject_allocWithEntity
 __arclite_NSManagedObject_init
 __arclite_NSUndoManagerProxy_isKindOfClass
 add_image_hook_swiftV1
+patch_lazy_pointers
 patch_t<const char **(const char *, unsigned int *)>
 patch_t<const char *(Protocol *)>
 patch_t<const char *(Class)>
@@ -13932,52 +13892,10 @@ patch_t<Class (const char *)>
 patch_t<void *(id)>
 patch_t<Class (Class, const char *, unsigned long)>
 patch_t<Class (Class, const objc_image_info *)>
-__arclite_objc_storeStrong
-__arclite_objc_release
-__arclite_objc_retain
-__arclite_objc_retainAutoreleasedReturnValue
-__arclite_objc_retainAutoreleaseReturnValue
-__arclite_objc_autoreleaseReturnValue
-__arclite_objc_retainAutorelease
-__arclite_objc_autorelease
-__arclite_objc_retainBlock
-__arclite_object_copy
-fixupCopiedReferences
-_class_getInstanceStart
-alignedInstanceStart
-__arclite_class_usesAutomaticRetainRelease
-classOrSuperClassesUseARR
-__arclite_object_setIvar
-isScannedOffset
-_ivar_getClass
-__arclite_object_setInstanceVariable
-add_image_hook_ARC
-patch_t<void (id *, id)>
-patch_t<id (id)>
-patch_t<void (id)>
-patch_t<id (id, unsigned long)>
-patch_t<void (id, objc_ivar *, id)>
-patch_t<objc_ivar *(id, const char *, void *)>
 __arclite_NSMutableDictionary__setObject_forKeyedSubscript
-__arclite_NSMutableOrderedSet_setObject_atIndexedSubscript
-__arclite_NSOrderedSet_objectAtIndexedSubscript
-__arclite_NSDictionary_objectForKeyedSubscript
-__arclite_NSMutableArray_setObject_atIndexedSubscript
-__arclite_NSArray_objectAtIndexedSubscript
-patch_lazy_pointers
-__arclite_objc_autoreleasePoolPop
-__arclite_objc_autoreleasePoolPush
-add_image_hook_autoreleasepool
-patch_t<void (void *)>
-patch_t<void *()>
 __ARCLite__load
 install_swiftV1
 replaceMethod
-install_ARC
 install_dict_nil_value
 addOrReplaceMethod
 keyedGetter
-install_subscripting
-addMethod
-indexedGetter
-install_autoreleasepool
