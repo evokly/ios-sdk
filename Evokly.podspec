@@ -21,6 +21,5 @@ Pod::Spec.new do |s|
   s.xcconfig              = { 'LIBRARY_SEARCH_PATHS' => '"$(PODS_ROOT)/Evokly"',
                                'HEADER_SEARCH_PATHS' => '"${PODS_ROOT}/Evokly/Headers"' }
 
-  s.dependency            = 'SwiftProtobuf'
   
 end

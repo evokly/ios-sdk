@@ -16,7 +16,7 @@
   	 `bash "${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Evokly.framework/strip-frameworks.sh"
 `
 
-
+4. Add SwiftProtobuf 1.1.0 framework to the project
 > For Obj-c target: under `Build Settings`, in section `Build Options` set `Embedded Content Contains Swift Code` to **YES**.
 
 
@@ -25,6 +25,7 @@
 ```ruby
 use_frameworks!
 pod 'Evokly'
+pod 'SwiftProtobuf', '~> 1.1.0'
 
 ```
 ###Carthage
